@@ -1,6 +1,6 @@
 import re
 
-#? Function to extract tweets (accounting for diff tweet dates)
+#? Function to extract tweets (patterns accounting for different tweet dates)
 def extract_tweets(data, pattern_num):
     tweets = []
     patterns = [
@@ -34,12 +34,12 @@ Lavern Spicer 🇺🇸
 @lavern_spicer
 ·
 Apr 1
-Nigga, you lost the whole Black vote with this shit. It’s Easter. Not some trans day.
+Nigga, you lost the whole Black vote with this shit. It's Easter. Not some trans day.
 Steve Guest
 @SteveGuest
 ·
 Apr 1
-It’s Easter.
+It's Easter.
 Dan Bilzerian
 @DanBilzerian
 ·
@@ -71,7 +71,7 @@ Paul Emerson
 @notanokguy
 ·
 Apr 1
-You’re the weakest President in American history.
+You're the weakest President in American history.
 ALX 🇺🇸
 
 @alx
@@ -115,7 +115,7 @@ Liberacrat Media™️
 @Liberacrat_
 ·
 Apr 1
-What visibility and rights don’t these people have? Remind me again…
+What visibility and rights don't these people have? Remind me again…
 Paul A. Szypula 🇺🇸
 @Bubblebathgirl
 ·
@@ -126,9 +126,9 @@ Stop bastardizing our sacred holidays by forcing gender ideology into the mix.
 
 Everyone is America is already equal.
 
-We don’t need another “special” holiday.
+We don't need another “special” holiday.
 
-Joe Biden keeps proving that he’s a fake Catholic.
+Joe Biden keeps proving that he's a fake Catholic.
 
 First abortion till birth now this.
 
@@ -167,7 +167,7 @@ Clara Jones
 @debbieformola
 ·
 Apr 1
-I noticed last week you didn’t mention Vietnams Veterans Day ..but you absolutely needed to announce this !!
+I noticed last week you didn't mention Vietnams Veterans Day ..but you absolutely needed to announce this !!
 classicsgroyp
 @classicsgroyp
 ·
@@ -191,7 +191,7 @@ PNWGUERRILLA
 @pnwguerrilla
 ·
 Apr 1
-Now call me crazy, but wouldn’t this imply that there are invisible transgenders? 
+Now call me crazy, but wouldn't this imply that there are invisible transgenders? 
 
 How does this power work? 
 
@@ -204,7 +204,7 @@ Three Year Letterman
 @3YearLetterman
 ·
 Apr 1
-It’s Jesus’s birthday, Joel. Delete this
+It's Jesus’s birthday, Joel. Delete this
 Progressing California
 @ProgressingCali
 ·
@@ -214,9 +214,9 @@ Manz🌪
 @notmrmanziel
 ·
 Apr 1
-It’s Easter man 
+It's Easter man 
 
-It’s like you’re doing it on purpose at this point.
+It's like you're doing it on purpose at this point.
 Filipe Sabará
 @FilipeSabara
 ·
@@ -253,7 +253,7 @@ Brian Mazzola
 @BrianNMazzola
 ·
 Apr 1
-I believe in forgiveness, but if you continue to live this way, there’s a special place in hell for you, Mr. Joe Biden.
+I believe in forgiveness, but if you continue to live this way, there's a special place in hell for you, Mr. Joe Biden.
 Malissa Canton
 @MalCan4401
 ·
@@ -273,7 +273,7 @@ DieselBabe🌟
 @DieselBABE20
 ·
 Apr 1
-You’re a sick, evil, vile man.  Any other day…Easter is for JESUS.  I hope this backfires tremendously for you, 🤮
+You're a sick, evil, vile man.  Any other day…Easter is for JESUS.  I hope this backfires tremendously for you, 🤮
 ConserValidity
 @ConserValidity
 ·
@@ -293,7 +293,7 @@ Samirah
 @SameeraKhan
 ·
 Apr 1
-IT’S EASTER, YOU SATANIC IDIOT.
+IT'S EASTER, YOU SATANIC IDIOT.
 
 Literally NO ONE cares about your precious transformers.
 Brick Suit
@@ -315,7 +315,7 @@ Christy Canyon
 @ChristyCanyon11
 ·
 Apr 1
-For the first time in a long time, I have no words. I’d seriously had to look four times to make sure that this wasn’t a parody account….
+For the first time in a long time, I have no words. I'd seriously had to look four times to make sure that this wasn’t a parody account….
 
 Happy Easter to you and the First Lady
 
@@ -340,7 +340,7 @@ Alyssa Milano
 @Alyssa_Milano
 ·
 Aug 25, 2023
-It’s a sad day for America.
+It's a sad day for America.
 👉M-Û-R-Č-H👈
 @TheEXECUTlONER_
 ·
@@ -400,7 +400,7 @@ Madeline Marie ✝🇺🇸🧡
 Aug 25, 2023
 Welcome back Mr. President ! 🤗🙏🏼🔥🔥
 
-“But the wicked will die. The Lord’s enemies are like flowers in a field— they will disappear like smoke.” Psalms 37:20 
+“But the wicked will die. The Lord's enemies are like flowers in a field— they will disappear like smoke.” Psalms 37:20 
 
 The Lions of Judah walk with him. God will never let you walk alone 🙌❤️
 ☘ The Sober Irishman ☘
@@ -472,7 +472,7 @@ Matt Wallace
 @MattWallace888
 ·
 Aug 25, 2023
-⚠️ THE ELITE ARE NOT PREPARED TO HANDLE TRUMP’S WAR OF REVENGE AGAINST THEM ⚠️
+⚠️ THE ELITE ARE NOT PREPARED TO HANDLE TRUMP'S WAR OF REVENGE AGAINST THEM ⚠️
 
 🚨 IT WILL BE INTENSE
 
@@ -612,7 +612,7 @@ Jan 8
 @Sundog512
 ·
 Feb 15
-You won’t be there on January 20, 2025 either. You’ll be pouting again.
+You won't be there on January 20, 2025 either. You'll be pouting again.
 mariana fernandes
 @marianafernan91
 ·
@@ -825,7 +825,7 @@ Mimi Flâneur
 @FlaneurCulture
 ·
 3m
-The question this raises, is why Germany, the largest manufacturing economy in Europe, can’t produce their own vehicles.
+The question this raises, is why Germany, the largest manufacturing economy in Europe, can't produce their own vehicles.
 They deactivated nuclear power plants, NordStream was destroyed by their (and our) allies, & they are deindustrialising.
 This should serve as a warning to us.
 Maureen Doyle
@@ -879,7 +879,7 @@ Aussie Bot 🇦🇺
 @AussieBotStudio
 ·
 7m
-The King also sucks up the climate cult nonsense. You’re a joke Albo.
+The King also sucks up the climate cult nonsense. You're a joke Albo.
 three dogs
 @threedogsonekid
 ·
@@ -916,13 +916,13 @@ Aus Integrity
 40m
 Why are you not respecting the democratic vote of our referendum?
 
-We don’t want UNDRIP Treaty or Voice in Australia.
+We don't want UNDRIP Treaty or Voice in Australia.
 
 Anthony Scalise
 @esilacSynohtnA
 ·
 3m
-Honoured? …You wouldn’t know what that means. 
+Honoured? …You wouldn't know what that means. 
 Samantha Mostyn is a washed up old bat. ‘Another’ poor move from you. 👎
 X-ing
 @crypto_vishu
@@ -961,7 +961,7 @@ The Uranium Bull formerly known as Rob ☢️🐂
 @Cpcc15
 ·
 Mar 31
-Unpopular opinion Harley Reid won’t win the rising star
+Unpopular opinion Harley Reid won't win the rising star
 
 
 Matt Nicholls
@@ -984,12 +984,12 @@ Daniel Warland
 @DanielWarland
 ·
 Mar 31
-Harley Reid’s team mates absolutely burning him at every opportunity. Hate to see it #AFLDogsEagles
+Harley Reid's team mates absolutely burning him at every opportunity. Hate to see it #AFLDogsEagles
 Rubbish
 @RubbishYCH
 ·
 Mar 31
-Harley Reid is going to be good… but right now… he isn’t..
+Harley Reid is going to be good… but right now… he isn't..
 Matt Craig
 @MattCraigDT
 ·
@@ -999,7 +999,7 @@ Brendan Foster
 @BrendanfFoster
 ·
 Apr 1
-In some personal news, I’ve been made editor of the 
+In some personal news, I've been made editor of the 
 @westaustralian
 . Harley Reid will no longer be on the front and back pages! :)
 Jimmye
@@ -1063,7 +1063,7 @@ Ben Nexhip
 ·
 Mar 29
 
-Sam Mclure said there’s no possible way Dustin Martin was playing at Richmond this year, he said confidently that West Coast would not take Harley Reid. No credibility whatsoever
+Sam Mclure said there's no possible way Dustin Martin was playing at Richmond this year, he said confidently that West Coast would not take Harley Reid. No credibility whatsoever
 luke
 @LukePH10
 ·
@@ -1088,7 +1088,7 @@ The West Australian
 @westaustralian
 ·
 Mar 25
-West Coast coach Adam Simpson has defended The West Australian’s coverage of star draftee Harley Reid.
+West Coast coach Adam Simpson has defended The West Australian's coverage of star draftee Harley Reid.
 From thewest.com.au
 Lachlan McKirdy
 @LMcKirdy7
@@ -1134,12 +1134,12 @@ Jayden Hunt and Naughton with the headbands
 Tim English taking running bounces through the middle 
 JJs hair looking super schlick 
 
-You wouldn’t think Western Bulldogs vs West Coast would be all that exciting but it’s genuinely got it all
+You wouldn't think Western Bulldogs vs West Coast would be all that exciting but it's genuinely got it all
 yxngbukayo1
 @yxngbukayo1
 ·
 Mar 31
-If I was Harley Reid I would’ve rather been drafted into the army
+If I was Harley Reid I would've rather been drafted into the army
 Sambo1600 G
 @GSambo16
 ·
@@ -1148,7 +1148,7 @@ Would love to see Harley Reid move to halfback, clearly doesnt have the tank to 
 Des Doherty
 
 @GeoffHutchison
-Geoff if you do that you won’t know if Harley Reid breathes in or breaths out.
+Geoff if you do that you won't know if Harley Reid breathes in or breaths out.
 Adze
 @leafy17
 ·
@@ -1169,7 +1169,7 @@ Eagles have been better than scoreline suggests but getting killed in the ruck. 
 
 Sam Taylor enormous, again.
 
-Harley Reid is mind blowing for a 2nd gamer. He’s happy in Perth but WCE need to get better fast to keep him after 3 yrs.
+Harley Reid is mind blowing for a 2nd gamer. He's happy in Perth but WCE need to get better fast to keep him after 3 yrs.
 Show more
 coby hewitt
 @cobyhewitt1
@@ -1205,7 +1205,7 @@ Rod Smith
 @RocketSmith1985
 ·
 Mar 27
-Harley Reid won’t make it…. Not fit enough
+Harley Reid won't make it…. Not fit enough
 
 
 Demitri christou
@@ -1248,12 +1248,12 @@ Pepsta
 @Pepsta3
 ·
 Mar 24
-Let’s go Harley!! 💥
+Let's go Harley!! 💥
 Andrew Carter
 @AussiePunter32
 ·
 Mar 25
-He is, everyone who’s dealt with him at the club including the general staff all say the same just a genuinely decent nice country kid & he’s had a full year of dealing with the constant media so he copes with it well. Apparently all our kids are really good decent human beings🙂
+He is, everyone who's dealt with him at the club including the general staff all say the same just a genuinely decent nice country kid & he's had a full year of dealing with the constant media so he copes with it well. Apparently all our kids are really good decent human beings🙂
 Caprh Cap
 @Caprah112
 ·
@@ -1451,7 +1451,7 @@ Verizon
 @Verizon
 ·
 Mar 29
-The queen isn’t the only one with bars 📶
+The queen isn't the only one with bars 📶
 Show replies
 Josh P. Jackson
 @JoshJay990
@@ -1499,7 +1499,7 @@ lex in tx
 @alexissTyler
 ·
 Mar 29
-Hope you’re on the next album 💿💿 now playing “angels like you
+Hope you're on the next album 💿💿 now playing “angels like you
 
 
 vini
@@ -1531,7 +1531,7 @@ II PURE WANTED HONEY 🍯
 @purethiquekj
 ·
 Mar 29
-if you only knew how long i’ve dreamed about this collaboration, i’ve been a fan of the both of you since 2014 and y’all truly made me be the person i am today, i’m so proud and grateful 🤍
+if you only knew how long i've dreamed about this collaboration, i've been a fan of the both of you since 2014 and y’all truly made me be the person i am today, i’m so proud and grateful 🤍
 RockLey
 @ObsessedSmiler
 ·
@@ -1553,7 +1553,7 @@ WE LOVE U GIRLS 🩷
 @s0urpatchkiid
 ·
 Mar 29
-easily one of my favorite songs i can’t wait to see this live you ate queen
+easily one of my favorite songs i can't wait to see this live you ate queen
 𐚁 onii 𐚁
 @__Onixivy_
 ·
@@ -1685,7 +1685,7 @@ Jmag
 April Fools!!
 Geeky Glimpse
 @GeekyGlimpse
-·
+.
 13h
 😎😎
 SENYO
@@ -1702,7 +1702,7 @@ Michael Kentrell Brown 💚ﾒ𝟶
 @breezybetter07
 ·
 13h
-Is that it? Is that the tweet you’re going with? Wow! As your biggest fan since 1947, I’m not impressed. You know, when it comes to expressing your thoughts on Twitter, you have the freedom to use up to 280 characters in a single tweet. It's incredible to think that there are…
+Is that it? Is that the tweet you're going with? Wow! As your biggest fan since 1947, I’m not impressed. You know, when it comes to expressing your thoughts on Twitter, you have the freedom to use up to 280 characters in a single tweet. It's incredible to think that there are…
 Show more
 TrRonaldo
 @TrRonaldoCR7
@@ -1725,14 +1725,14 @@ dan deitz
 @dandeitz2
 ·
 13h
-To bad you can’t be like that for boxing fans
+To bad you can't be like that for boxing fans
 Emerge
 @akaEmerge
 ·
 13h
 I don't want to lose anymore money on Jake 
 Pay Levi Rogers using PayPal.Me
-Go to paypal.me/LeviRogers and type in the amount. Since it’s PayPal, it's easy and secure. Don’t have a PayPal account? No worries.
+Go to paypal.me/LeviRogers and type in the amount. Since it's PayPal, it's easy and secure. Don’t have a PayPal account? No worries.
 Иван Рыбачук
 @ivanrybachuk
 ·
@@ -1752,7 +1752,7 @@ Kade
 @5sKade
 ·
 13h
-Let’s go champ
+Let's go champ
 Blinkx117x
 @John117Jackson
 ·
@@ -1782,7 +1782,7 @@ carmi🇬🇧
 @Holywarsenal
 ·
 13h
-Has anyone noticed he tweets after ksi violates him 😭 bro acting like he don’t see it
+Has anyone noticed he tweets after ksi violates him 😭 bro acting like he don't see it
 .
 @AXDVEmzGgN25234
 ·
@@ -1861,7 +1861,11 @@ Olivia Kaya💕
 ·
 16h
 im not watching a bunch of nobodies box each other
-
+Olivia Kaya💕
+@benzypher
+·
+16h
+I guess he maybe the goat of the herd
 """
 
 Taylor_Swift = """
@@ -2133,7 +2137,7 @@ Troy Weaver
 @DanCampbellGOAT
 ·
 7h
-He’s just lucky he isn’t coaching you! We all know what you do your coaches 😒
+He's just lucky he isn't coaching you! We all know what you do your coaches 😒
 Shivaye 🔱
 @shivaye01
 ·
@@ -2146,7 +2150,7 @@ Stagy
 @UtdStagy
 ·
 8h
-The NBA wouldn’t be the same without you.
+The NBA wouldn't be the same without you.
 Stagy
 @UtdStagy
 ·
@@ -2178,12 +2182,12 @@ Wealth Turtle 💰 🐢
 @wealth_turtle
 ·
 8h
-He’s definitely not perfect
+He's definitely not perfect
 Stagy
 @UtdStagy
 ·
 8h
-Please don’t retire anytime soon 🙏🏽
+Please don't retire anytime soon 🙏🏽
 MicahParsonsSZN ™
 @ParsonsTakeover
 ·
@@ -2270,7 +2274,7 @@ Wealth Turtle 💰 🐢
 @wealth_turtle
 ·
 8h
-He’s lowkey ugly
+He's lowkey ugly
 andrea🧎🏽‍♀️
 @scarydrea
 ·
@@ -2343,7 +2347,7 @@ That’s a Great Irish name Joyce we’ve had
 @DuqMBB
  to visit 
 @ashfordcastle
- before I think it’s time again You don’t know where your going until you know where you’ve Come from nearly every cornerstone of US business, education, and sport, was laid by Irish Immigrants 🏰❤️☘️🏀😎
+ before I think it's time again You don't know where your going until you know where you’ve Come from nearly every cornerstone of US business, education, and sport, was laid by Irish Immigrants 🏰❤️☘️🏀😎
  
  
 earl
@@ -2563,7 +2567,7 @@ Mark G
 @MarkG52480690
 ·
 Mar 30
-You’re the best at doing you… so keep doing you’re
+You're the best at doing you… so keep doing you're
 かみ
 @paperboxZ
 ·
@@ -3014,7 +3018,7 @@ gigi౨ৎ
 @grandeiscozy
 ·
 Mar 26
-girl the boycott so you just don’t care?
+girl the boycott so you just don't care?
 
 
 सुरेन्द्र चौधरी
@@ -3228,7 +3232,7 @@ IPHONE POPE ..🚫🧢 
 @sleyvinlegend
 ·
 14h
-Let’s make it happen and you better play too 😂🙌🏿
+Let's make it happen and you better play too 😂🙌🏿
 Aleezy Adeel🦋
 @AlizeyAdeel
 ·
@@ -3308,7 +3312,7 @@ Ageing like fine wine 🐐❤️
 @abazwhyllzz
 ·
 10h
-Why didn’t you do all of this in Juventus or when you returned to Manchester United? Why did you run from Europe if you are not slowing down ?😂
+Why didn't you do all of this in Juventus or when you returned to Manchester United? Why did you run from Europe if you are not slowing down ?😂
 
 💪🎭..Rai ji..💪🎭
 @Vinod_r108
@@ -3440,7 +3444,7 @@ SLWells
 @wells_sl
 ·
 Mar 12
-Pretty low to bring up someone’s drug addiction on the night they are up for probably the most prestigious award in their industry… but  what else should we expect from “black face Jimmy Kimmel”… I mean, he’s lower than the 💩 on my shoe.. sorry 
+Pretty low to bring up someone’s drug addiction on the night they are up for probably the most prestigious award in their industry… but  what else should we expect from “black face Jimmy Kimmel”… I mean, he's lower than the 💩 on my shoe.. sorry 
 @RobertDowneyJr
  for having to…
 Show more
@@ -3475,7 +3479,7 @@ Salmon La Sac Sue
 @2020lizmac
 ·
 Mar 11
-Haven’t watched the Hollywood Pedos give each other awards in years. It used to be a classy show now it’s nothing but trash as are the movies produced in Hollywood.
+Haven’t watched the Hollywood Pedos give each other awards in years. It used to be a classy show now it's nothing but trash as are the movies produced in Hollywood.
 Texas Aeronaut
 @TxAeronaut
 ·
@@ -3555,7 +3559,7 @@ Perhaps the most entertaining part of the Oscars is watching the host try to be 
 @nurseangel777
 ·
 Mar 11
-It’s only been 15 minutes and I’m already tired of your lame insulting humor.👎🏼👎🏼👎🏼
+It's only been 15 minutes and I’m already tired of your lame insulting humor.👎🏼👎🏼👎🏼
 Mustafa Hassan
 @imustafazia
 ·
@@ -3612,7 +3616,7 @@ Sapkota ✈️
 @disser_sapkota
 ·
 Mar 11
-Wishing you luck, Jimmy. It should be a great show as long as you didn’t try to tell any jokes. Not your strongest suit. 😝
+Wishing you luck, Jimmy. It should be a great show as long as you didn't try to tell any jokes. Not your strongest suit. 😝
 Sean Joseph
 @sjoseph_sports
 ·
@@ -3642,7 +3646,7 @@ Parker 🐐
 @DotComParker
 ·
 Mar 29
-Elon, bots are able to comment scams on my posts and I can’t see it because they have me blocked. 
+Elon, bots are able to comment scams on my posts and I can't see it because they have me blocked. 
 
 jailbreakrob
 @RobJailbreakrob
@@ -3714,13 +3718,13 @@ Derek Wang
 Mar 31
 I just tried V12 for the first time with 12.3.2.1, wow! I have been an enthusiast since V8, but still V12 really wow me. 
 @elonmusk
- you’re so low key on this (which is good and prudent).  Really appreciate the great job!
+ you're so low key on this (which is good and prudent).  Really appreciate the great job!
 Ramy
 @TeslaXplored
 ·
 Mar 29
 Will that happen in the Nassau/Queens area of NY too? Seems to struggle here a lot. 
-Lots of roads without lanes, more human drivers NOT follow driving rules than follow them, driving on shoulders, running red lights, NO patience, emergency vehicles. It’s INSANE here 😂
+Lots of roads without lanes, more human drivers NOT follow driving rules than follow them, driving on shoulders, running red lights, NO patience, emergency vehicles. It's INSANE here 😂
 Tesla Girl 🇨🇦
 @somi_teslagirl
 ·
@@ -3759,7 +3763,7 @@ Just waiting for…
 @2thdoc2012
 ·
 Mar 29
-I’ve been thinking about that as I’ve been testing v12.    It really is to a certain extent already like a personal taxi
+I've been thinking about that as I've been testing v12.    It really is to a certain extent already like a personal taxi
 Mark
 @CodingMark
 ·
@@ -3781,7 +3785,7 @@ Roel Smelt
 @roelsmelt
 ·
 Mar 29
-I’ve told my kids that they most likely will not be allowed to get their driving license and drive their own cars on the road. Way to dangerous! 
+I've told my kids that they most likely will not be allowed to get their driving license and drive their own cars on the road. Way to dangerous! 
 And why would they. It is so easy and save to get everywhere.
 Ananto Mohammad
 @01Ananto
@@ -3846,7 +3850,7 @@ Landon Hamilton
 @LandonH
 ·
 Mar 29
-It’s crazy good. Thanks for all the great work 
+It's crazy good. Thanks for all the great work 
 @Tesla
  & 
 @elonmusk
@@ -3895,7 +3899,7 @@ alexisd3000
 @alexisd3000
 ·
 Mar 29
-If every car used FSD, the roads would be so much safer!  It’s the human drivers we need to look out for.
+If every car used FSD, the roads would be so much safer!  It's the human drivers we need to look out for.
 TheBigDeal
 @griffithe
 ·
@@ -3914,7 +3918,7 @@ Rani
 @aqsarani76
 ·
 Mar 29
-👏👏👏 It will be interesting when licenses and all the admin and bureaucracy is no longer necessary. It’s sure to be an interesting transformation. Not sure the Government will make this easy. 🤣
+👏👏👏 It will be interesting when licenses and all the admin and bureaucracy is no longer necessary. It's sure to be an interesting transformation. Not sure the Government will make this easy. 🤣
 Jeremy Merchant
 @Jeremywmerchant
 ·
@@ -4104,7 +4108,7 @@ Oct 27, 2023
 Lol ok big boy, your jenga tower is wobbling - gonna be a hoot to watch
 
 Remember we are all under the 10x blessing - our actions are returned to us 10 times over
-I have a feeling you’re in line for the Gauntlet
+I have a feeling you're in line for the Gauntlet
 JustMj
 @jamesmj85
 ·
@@ -4114,7 +4118,7 @@ drnick - dao/acc
 @DrNickA
 ·
 Oct 28, 2023
-I hope you’re going to teach the lads not to get rugged rather than feed them to them.
+I hope you're going to teach the lads not to get rugged rather than feed them to them.
 OMEGAMILLIONS⛈
 @OMEGAMILLIONS1
 ·
@@ -4129,7 +4133,7 @@ Patryk
 @PatrykDumicz
 ·
 Oct 28, 2023
-“Made money” - meaning that they already sold BTC securing their profits? I’ll bet you a Bugatti most of them will wait until it’s too late #greed
+“Made money” - meaning that they already sold BTC securing their profits? I’ll bet you a Bugatti most of them will wait until it's too late #greed
 Masculine Empire⚔️
 @Masc_Empire
 ·
@@ -4161,7 +4165,7 @@ Eli
 @TheLoveOfJoy
 ·
 Oct 26, 2023
-XLM and stellar are where it’s really at
+XLM and stellar are where it's really at
 Joshua Silent Mode
 @joshsilentmode
 ·
@@ -4170,7 +4174,7 @@ Find The Hero Inside You
 @FindYourHero
 ·
 51m
-Heroes don’t depend on inspiration, they thrive on self discipline.
+Heroes don't depend on inspiration, they thrive on self discipline.
 Famous
 @Famous_999_
 ·
@@ -4201,7 +4205,7 @@ Jack Willis
 @jackwillis004
 ·
 Jan 11
-I’m in TRW and don’t have a network tho?
+I’m in TRW and don't have a network tho?
 
 Nor have I closed a client yet.
 
@@ -4334,7 +4338,7 @@ Kakarot
 @ShadBoogie
 ·
 Mar 7
-Listen, if you’re going to be a “heel” imma need you to stop doing these types of ads, I know I know it’s part of your brand but you can’t be talking how you do on SD and then get on here and start talking nice and proper and wholesome
+Listen, if you're going to be a “heel” imma need you to stop doing these types of ads, I know I know it's part of your brand but you can't be talking how you do on SD and then get on here and start talking nice and proper and wholesome
 Joshua Harley Davidson
 @jharleyd12
 ·
@@ -4494,7 +4498,7 @@ light yagami
 @habdoolahi
 ·
 Mar 22
-This is legit heartwarming.. it’s what you expect from the final bosss
+This is legit heartwarming.. it's what you expect from the final bosss
 ziamalik
 @ziamalik685
 ·

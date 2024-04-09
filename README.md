@@ -8,4 +8,7 @@
 dataset:
 https://www.kaggle.com/datasets/kazanova/sentiment140
 
-#* For the target variable: (0 = Negative, 2 = Neutral, 4 = Positive)
+#* For the target variable: (0 = Negative, 2 = Neutral, 4 = Positive) ---- This is old
+
+# 0 = Negative Tweet
+# 1 = Positive Tweet
