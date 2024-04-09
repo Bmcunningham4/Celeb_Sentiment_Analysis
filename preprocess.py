@@ -18,6 +18,9 @@ twitter_df.columns = col_names
 #? Removing Columns
 twitter_df.drop(["id's", "Timestamp", "Query", "Account_name"], axis=1, inplace=True)
 
+#? Changing target variable values (0 = Negative, 1 = Neutral, 2 = Positive) -------- There aren't actually any neutral ones...
+twitter_df.replace({4:1}, inplace=True)
+
 #* Have a look at this when needed
 # print(twitter_df.head().to_string(index=False))
 
@@ -76,7 +79,6 @@ for name, num in celeb_dict.items():
         new_data.append(df_format)
 
 celeb_df = pd.DataFrame(new_data, columns=["Celebrity", "Twitter_Account", "Tweet"])
-# print(celeb_df.head())
 celeb_df.to_csv('celeb_tweets.csv', index=False)
 
 
@@ -85,18 +87,4 @@ celeb_df.to_csv('celeb_tweets.csv', index=False)
 
 
 
-# Potential idea on how to write it!
-"""# Specify the CSV file path
-csv_file = 'output.csv'
-
-# Open the CSV file in write mode
-with open(csv_file, 'w', newline='') as file:
-    writer = csv.writer(file)
-
-    # Iterate over each key-value pair in the dictionary
-    for key, value in data.items():
-        # Iterate over each list in the list of lists
-        for inner_list in value:
-            # Write the key and each element of the inner list as a row in the CSV file
-            writer.writerow([key] + inner_list)"""
 

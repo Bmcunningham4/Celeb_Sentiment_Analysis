@@ -695,7 +695,7 @@ mrs ceasefire
 @m_aryel_len
 ·
 5m
-💔
+heart heart love
 ayshilin
 @ayshipie
 ·
@@ -803,13 +803,13 @@ A future built on war, seriously 🤦‍♀️ come on we can do better than thi
 zjalapeño
 @zjalapenoo
 ·
-19s
+19m
 lockheed deal on or off?
 0:02 / 0:07
 FrustratedMelburnian
 @belyndar
 ·
-24s
+24m
 Enough warmongering already. Enough!
 LisaJPG 😷
 @LJPG_23
@@ -930,14 +930,21 @@ X-ing
 5m
 What era we living - seeking approvals from someone in UK to appoint our own governor - this arrangement and constitution is old and obsolete- not fit for any purpose other than keeping king tax funded. 
 """
-Harley_Reid = """Harley Reid is the #1 rated player for his age 🥳
+Harley_Reid = """
+
+Harley Reid is the #1 rated player for his age 🥳
 Footy on Nine
 
 @FootyonNine
 ·
+
 Mar 25
 "He's doing don't argues like a 200-game player."
 "You've got to admire the way he's gone about it."
+
+Mar 25
+@footyfooty 
+Not sure if this guy is gonna be the goat anymore?
 
 Lloydy and 
 @kanecornes
@@ -949,8 +956,7 @@ SEN WA Breakfast
 @SENWABreakfast
 ·
 Apr 1
-@TimGossage
- came in strong off the top of the show this morning with the big BREAKING NEWS that Harley Reid has requested a number change 👀
+came in strong off the top of the show this morning with the big BREAKING NEWS that Harley Reid has requested a number change 👀
 The Uranium Bull formerly known as Rob ☢️🐂
 @Cpcc15
 ·
@@ -1046,7 +1052,6 @@ Anthony Christodoulou 🐀💧🇦🇺🇨🇾
 Anyone else toying with the idea of trading down Harley Reid? #supercoach
 Ben Hansen
 
-@3AWisfootball
 Is this as true as Harley Reid not going to West Coast??
 Tony
 @acpea1989
@@ -1058,7 +1063,6 @@ Ben Nexhip
 ·
 Mar 29
 
-@3AWisfootball
 Sam Mclure said there’s no possible way Dustin Martin was playing at Richmond this year, he said confidently that West Coast would not take Harley Reid. No credibility whatsoever
 luke
 @LukePH10
@@ -1100,7 +1104,6 @@ Quote
 Mar 27
 there is no scenario where he needs to be doing all that
 Bobby
-@PiesWrldd
 ·
 Mar 31
 
@@ -1226,7 +1229,7 @@ Tandy
 @ATeeL
 ·
 Mar 27
-@3921Eagles
+Let's go boyyyyy
 Rod Smith
 @RocketSmith1985
 ·
@@ -1287,6 +1290,12 @@ How bout those marks
 ·
 Mar 21
 Did he get a touch all game
+
+@wdidhetho
+·
+Mar 21
+I think he's my dad
+
 
 """
 
@@ -1625,7 +1634,7 @@ James Dylan
 @dylonmusk_
 ·
 13h
-Play 
+Play the game boy
 @betr
 Devotions
 @GodlyDevotions
@@ -1658,12 +1667,12 @@ Truth Seeker
 @TheKingofJewelz
 ·
 13h
-🚀
+this guy is launching
 Lezra Gomez
 @lezramgomez
 ·
 13h
-🐐
+is this guy the goat
 khid hb
 @finestkhidhb
 ·
@@ -1721,7 +1730,7 @@ Emerge
 @akaEmerge
 ·
 13h
-paypal.com
+I don't want to lose anymore money on Jake 
 Pay Levi Rogers using PayPal.Me
 Go to paypal.me/LeviRogers and type in the amount. Since it’s PayPal, it's easy and secure. Don’t have a PayPal account? No worries.
 Иван Рыбачук
@@ -1822,7 +1831,7 @@ TENBOXING
 @Aus10Boxing
 ·
 17h
-🔥🔥🔥
+This guy do be a lil fire
 Die Hard Philadelphia Fan!
 @Allday215757
 ·
@@ -2054,8 +2063,7 @@ JML_ 🐉 $MON 🕹️ $RCADE
 @Omnifii
 ·
 16h
-@pikaso_me
- screenshot this
+screenshot this if you love taytay
 
 Cant wait to watch you on disney plus
 
@@ -2160,7 +2168,7 @@ DIRTI.SEI
 @Dirti_SEI
 ·
 8h
-🐶
+dirty dog
 cryptoknight
 @cryptoknig65902
 ·
@@ -2200,12 +2208,12 @@ Adrian Wojnarowski ᶠᵃⁿ
 @wojdespn
 ·
 7h
-Check your DM.
+Lebron pls check your dm's from me
 Made In The World
 @dekunleaa
 ·
 8h
-🫡🫡
+skippa lebron james is ma captain
 Vladan
 @Vladan48186430
 ·
@@ -2283,7 +2291,7 @@ Jenn — 𝟐 𝐝!𝐞 𝟒 (ft. Foreign, houston, nick, URANUS & val)
 @w5w99
 ·
 8h
-🤚🤚🤚🤚🤚🤚🤚🤚
+wait wait wait this is the guy
 Quote
 ﾒ
 @w5w99
@@ -2391,7 +2399,7 @@ Josh Noah
 3h
 
 
-@whynotboi1
+is this your king why not?
 ·
 3h
 Bronny definitely transferring there
@@ -2582,7 +2590,7 @@ moony
 @st0pbeingflirty
 ·
 Mar 30
-🏃‍♀️
+run from them haters gurl
 P.H Eilish
 @PabloHe00724178
 ·
@@ -2680,7 +2688,7 @@ DROP THE ALBUM
 Mar 30
 
 
-@ella_bosslady
+Billie is a bosslady queen
 ·
 Mar 30
 I had a dream
@@ -2693,7 +2701,7 @@ Info Billie Brasil
 @InfoBillieBR
 ·
 Mar 30
-ME POUPA MINHA FILHA
+the one english TWeet your looking for...
 kxng
 @KxngPlayzYT
 ·
@@ -2827,7 +2835,7 @@ DW Hindi💫
 ·
 Mar 28
 Bobo
-@Rinconhero
+Oh my you should ride my rhino
 ·
 Mar 28
 Dĩ vãng là quá khứ, hãy tập trung vào hiện tại để xây dựng tương lai tươi sáng hơn.
@@ -2896,10 +2904,21 @@ Ener Hocaoğlu 🏣
 @EnerHocaoglu
 ·
 Mar 27
+Dat ass ages like fine wine
+
+Ener Hocaoğlu 🏣
+@EnerHocaoglu
+
+Mar 27
 Haha, this article cracks me up! Who knew misheard song lyrics could be so entertaining?
 Ener Hocaoğlu 🏣
 @EnerHocaoglu
 ·
+Mar 27
+I wanna clean all over that thing
+Ener Hocaoğlu 🏣
+@EnerHocaoglu
+
 Apr 1
 Who knew complaining about Mondays could lead to better time management skills? Maybe I should start moaning about Tuesdays next.
 dinora amparo
@@ -2984,6 +3003,10 @@ Mar 26
 Beautiful
 Kim K Twink ☀️💋Taylor Supporter
 @KimKKrave
+
+Mar 26
+@kimdieheard
+Omg I can't even with this gorge
 ·
 Mar 26
 KIM PLZZZ STOP
@@ -3014,6 +3037,17 @@ sush
 ·
 Mar 27
 Malibu hits different beautiful 🧡🔥
+
+@2sushi3234
+·
+Mar 27
+That ass aint bad fam innit
+
+@2343hhourstogo
+·
+Mar 27
+Why would you risk that with that car..
+
 
 """
 
@@ -3489,7 +3523,7 @@ G
 @BenGleib2024
 ·
 Mar 11
-@bengleib
+feel the music jimmy
 FeelTheMusic
 @feelthemusicglo
 ·
@@ -4107,7 +4141,7 @@ McJoker
 @mcJoker_05
 ·
 Apr 1
-$CHAT 
+dm me what you think of top G in chat now
 
 @vectorchatai
  🤝 getting in early in a crypto #AI project is as manly as it gets my g's. you're welcome in advance
@@ -4195,7 +4229,6 @@ Karlsson Daniel
 @KarlssonDaniel4
 ·
 Oct 26, 2023
-🤩🔥💎
 BEAST MODE ! $RED $STAN
 @BEASTMODEAPEE
 ·
@@ -4272,7 +4305,7 @@ Mar 8
 Rock please bring it to Canada too 
 
 @WalmartCanada
-Mahr Irfan Hiraj
+This guy sucks I want to slap him
 @Raj_diary
 ·
 Mar 7
@@ -4307,7 +4340,7 @@ Joshua Harley Davidson
 ·
 Mar 8
 Will be checking it out.
-Mahr Irfan Hiraj
+This guy sucks I want to slap him
 @Raj_diary
 ·
 Mar 7
@@ -4329,7 +4362,7 @@ AEWBlog
 @AEW_Blog
 ·
 Mar 8
-Quote
+I'm gonna quote his ass because he's lovely
 AEWBlog
 @AEW_Blog
 ·
@@ -4350,7 +4383,7 @@ Daran NVASEG
 @daranvaseg
 ·
 Mar 7
-🤩
+Oh my star eyes
 FeelTheMusic
 @feelthemusicglo
 ·
@@ -4402,7 +4435,7 @@ Cheelee
 ·
 Mar 7
 🌶 🌶 🌶  https://twitter.com/Cheelee_Tweet/status/1751310823459606634
-Quote
+is this the quote your looking for rock man
 Cheelee
 @Cheelee_Tweet
 ·
@@ -4476,7 +4509,7 @@ KT
 @KeanuTrades
 ·
 Mar 22
-Quote
+or is this the quote you ass
 KT
 @KeanuTrades
 ·
