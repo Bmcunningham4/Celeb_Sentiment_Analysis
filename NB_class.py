@@ -46,28 +46,26 @@ predictions = classifier.predict(celeb_counts)
 # print(predictions) Yewwww that looks good now I just need to write to CSV file!
 
 #? Rewriting to CSV with calcs
-celeb_df["Predicted_Target"] = predictions
+celeb_df["NB_Predict"] = predictions
 celeb_df.to_csv("celeb_predict.csv")
-celeb_target_counts = celeb_df.groupby("Celebrity")["Predicted_Target"].value_counts()
+celeb_target_counts = celeb_df.groupby("Celebrity")["NB_Predict"].value_counts()
 print(celeb_target_counts)
 
 #? Graphing!
-celebrity_counts = celeb_target_counts.reset_index()
-pivot_df = celebrity_counts.pivot(index="Celebrity", columns="Predicted_Target", values="count")
-# Plot a box plot
-pivot_df.boxplot(figsize=(10, 6))  # Adjust figsize as needed
+positive_counts = celeb_target_counts.unstack().get(1, 0).sort_values() * 2 # So they are a percentage
+negative_counts = 100 - positive_counts 
+plt.bar(positive_counts.index, negative_counts, color='red')
+plt.bar(positive_counts.index, positive_counts, bottom=negative_counts, color='blue')
 
-# Set labels and title
-plt.xlabel('Classification')
-plt.ylabel('Count')
-plt.title('Box Plot of Classification Counts for Celebrities')
 
-# Show the plot
-plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
-plt.tight_layout()  # Adjust layout to prevent clipping of labels
+plt.xlabel('Celebrity')
+plt.ylabel('Percentage of Positive Tweets')
+plt.title('Percentage of Positive Tweets for Each Celebrity')
+plt.legend(['Negative', 'Positive'], loc='upper right')
+plt.xticks(rotation=45, ha='right')
+# plt.axhline(y=50, color='black', linestyle='--')
+plt.grid(True)
 plt.show()
-#todo: That ain't what I wanted at all I gotta fix this goat!!!
-
 
 
 
