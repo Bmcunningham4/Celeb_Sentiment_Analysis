@@ -1,15 +1,15 @@
 import pandas as pd
 import random
-from celeb_data import extract_tweets, Donald_Trump, Joe_Biden, Anthony_Albanese, Harley_Reid, Miley_Cyrus, Jake_Paul, Taylor_Swift, Lebron_James, Billie_Eilish, Kim_Kardashian, Cristiano_Ronaldo, Jimmy_Kimmel, Elon_Musk, Andrew_Tate, Dwayne_Johnson
+from Celebrity_Data.celeb_data import extract_tweets, Donald_Trump, Joe_Biden, Anthony_Albanese, Harley_Reid, Miley_Cyrus, Jake_Paul, Taylor_Swift, Lebron_James, Billie_Eilish, Kim_Kardashian, Cristiano_Ronaldo, Jimmy_Kimmel, Elon_Musk, Andrew_Tate, Dwayne_Johnson
 
 #! Twitter data 
-# Deleted original dataset to large to store!
+# Deleted original dataset to large to store! (1.6 Million samples -> 40k)
 """df = pd.read_csv("twitter_data.csv")
 new_columns = random.sample(range(df.shape[0]), 40000) # 40k try that on for size ay
 shorter_df = df.iloc[new_columns]
 shorter_df.to_csv("twitter.csv", index=False)
 """
-twitter_df = pd.read_csv("twitter.csv")
+twitter_df = pd.read_csv("CSV_files/twitter.csv")
 
 #? Giving Column names
 col_names = ['Target', "id's", "Timestamp", "Query", "Account_name", "Tweet"]
@@ -18,38 +18,11 @@ twitter_df.columns = col_names
 #? Removing Columns
 twitter_df.drop(["id's", "Timestamp", "Query", "Account_name"], axis=1, inplace=True)
 
-#? Changing target variable values (0 = Negative, 1 = Neutral, 2 = Positive) -------- There aren't actually any neutral ones...
+#? Changing target variable values (0 = Negative, 1 = Positive) -- Dataset doesn't contain neutral tweets
 twitter_df.replace({4:1}, inplace=True)
 
-#* Have a look at this when needed
-# print(twitter_df.head().to_string(index=False))
 
-
-#* For the target variable: (0 = Negative, 2 = Neutral, 4 = Positive)
-
-
-
-
-#! Celeb data
-"""
-Donald Trump - Done 31 Hard
-Joe Biden - Done 50
-Anthony Albanese - Done 38 ez
-Harley Reid - 33 Moderate 
-Miley Cyrus - 32 Easy
-Jake Paul - 37 Easy
-Taylor Swift - 34  ez
-Lebron James - 40 ez
-Billie Eilish - 33 ez
-Kim Kardashian - 43 ez
-Christiano Ronaldo - 37 Hardish
-Jimmy Kimmel - 40 Moderate
-Elon Musk - 46 Ez
-Andrew Tate - 34 Mod
-Dwayne Johnson - 39 Eh
-"""
-
-#* Finally this shits done..
+#! Celebrety Data
 celeb_dict = {
     Donald_Trump: [2, "Donald Trump"], 
     Joe_Biden: [2, "Joe Biden"], 
@@ -68,7 +41,7 @@ celeb_dict = {
     Dwayne_Johnson: [2,  "Dwayne Johnson"]
       }
 
-#? Creating df
+#? Creating new df that stores tweets regarding each celebrety
 new_data = []
 
 for name, num in celeb_dict.items():
@@ -79,12 +52,5 @@ for name, num in celeb_dict.items():
         new_data.append(df_format)
 
 celeb_df = pd.DataFrame(new_data, columns=["Celebrity", "Twitter_Account", "Tweet"])
-celeb_df.to_csv('celeb_tweets.csv', index=False)
-
-
+celeb_df.to_csv('CSV_files/celeb_tweets.csv', index=False)
     # print(len(tweets)) - Checked all equal
-
-
-
-
-

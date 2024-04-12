@@ -18,7 +18,7 @@ def extract_tweets(data, pattern_num):
     return tweets
 
 
-#? 50 Most recent Tweet replies on celebreties account
+#? 50 Most recent Tweet replies on celebreties account, unstructured data which is cleaned and collected in preprocess.py
 Joe_Biden = """
 Gunther Eagleman™
 @GuntherEagleman

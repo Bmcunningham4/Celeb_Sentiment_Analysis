@@ -1,0 +1,751 @@
+,Celebrity,Twitter_Account,Tweet,NB_Predict,SVM_Predict
+0,Donald Trump,@hodgetwins, notguilty  freetrump,0,1
+1,Donald Trump,@Alyssa_Milano,its a sad day for america ,0,0
+2,Donald Trump,@TheEXECUTlONER_,dinesh dsouza,0,1
+3,Donald Trump,@DineshDSouza,new statement by trump on my film  police state  ,1,1
+4,Donald Trump,@cherrynorrishhi,god is with you  we are with you  we support you  we are praying for you  ,1,1
+5,Donald Trump,@TheEXECUTlONER_,the patriot voice,0,1
+6,Donald Trump,@TPV_John,vernon jones,0,1
+7,Donald Trump,@VernonForGA,god this guy makes me sick,0,0
+8,Donald Trump,@VernonForGA,retweet if you have president trump s back and are voting for him on november  th       ,1,1
+9,Donald Trump,@CalltoActivism,kari lake,0,1
+10,Donald Trump,@KariLake,mr  president  we are with you all the way ,1,1
+11,Donald Trump,@ybarrap,here is a validated summary of the facts about donald trump ,0,0
+12,Donald Trump,@MadelineMarie66,welcome back mr  president        ,1,1
+13,Donald Trump,@NCMuscleCars001,zadok  ,0,1
+14,Donald Trump,@zadokq244514,good sir  brother  for your consideration  ,1,1
+15,Donald Trump,@TPV_John,chris d  jackson,1,1
+16,Donald Trump,@ChrisDJackson,i couldnt decide if i like this guy or not,1,1
+17,Donald Trump,@ChrisDJackson,mickey,0,1
+18,Donald Trump,@Mickey17176,chuzii,0,1
+19,Donald Trump,@itx_Humna,well come back,0,1
+20,Donald Trump,@ANUJ_BANSAL738, donaldtrump for world peace ,1,1
+21,Donald Trump,@BouchellJohn,josh franco,1,1
+22,Donald Trump,@3YearLetterman,jesus is literally behind you sir,1,1
+23,Donald Trump,@MattWallace888,   the elite are not prepared to handle trumps war of revenge against them   ,0,0
+24,Donald Trump,@sbgbobby17,this recipe looks amazing  cant wait to try it out  thank you for sharing this ,1,1
+25,Donald Trump,@hodgetwins,free trump,1,1
+26,Donald Trump,@zadokq244514,this guy is the man i love this guy,1,1
+27,Donald Trump,@zadokq244514,   national revival  maga  americafirst  usa  trump  trump     by zoomer waffen,1,1
+28,Donald Trump,@elonmusk,approximately    million views per hour of this image,0,0
+29,Donald Trump,@DineshDSouza,trump is the primary target of the  policestate,1,1
+30,Donald Trump,@tomiahonen,hey loser ,1,1
+31,Donald Trump,@Thoughts7763,you cant trust people who have a history of flip flopping on issues  unless they sincerely had a change of heart through education and new information    however  i wouldnt trust anyone who was onboard with mandatory covid vaccinations  after the first   months   banning ,1,1
+32,Donald Trump,@itscarterhughes,refollowed president trump  lets make america great again and fire the democrats ,1,1
+33,Donald Trump,@lukasbadboy,thanks for sharing  its appreciated ,1,1
+34,Donald Trump,@The_Trump_Train,who else thinks president trump should come back to twitter ,1,1
+35,Donald Trump,@davidhogg111,thoughts and prayers  ,0,1
+36,Donald Trump,@Lunimor,thanks for sharing your perspective  its appreciated ,1,1
+37,Donald Trump,@JrMoneyGetting,the fact this was the last tweet is hilarious,0,1
+38,Donald Trump,@Andy,take your toys and go to florida  sweetie ,0,1
+39,Donald Trump,@Luiiih,thanks for sharing your perspective  its appreciated ,1,1
+40,Donald Trump,@natibronzeri,absolutely  and thanks for sharing ,1,1
+41,Donald Trump,@greg16676935420,welcome back donald  dm me quick i have something to tell you,1,1
+42,Donald Trump,@ManMadeMoon,can i have your ticket ,1,1
+43,Donald Trump,@real_defender,welcome back mr  president ,1,1
+44,Donald Trump,@themanumenon, sundog   ,0,1
+45,Donald Trump,@marianafernan91,youre making a compelling case  thank you ,1,1
+46,Donald Trump,@maisaber,thanks for sharing  its appreciated ,1,1
+47,Donald Trump,@dom_lucre,make  em hurt mr  president  give them the tweet ,1,1
+48,Donald Trump,@David_Leavitt,trump is choosing to cry over his own bruised ego over helping to unite the country under our new leader by not attending the inauguration of ,0,0
+49,Donald Trump,@Audjuice9989,welcome back trump ,1,1
+50,Joe Biden,@GuntherEagleman,not today  dipshit    its easter ,0,0
+51,Joe Biden,@EndWokeness,no we arent doing this crap  joe  today is easter  period   ratio ,0,0
+52,Joe Biden,@lavern_spicer,nigga  you lost the whole black vote with this shit  its easter  not some trans day ,0,0
+53,Joe Biden,@SteveGuest,its easter ,0,1
+54,Joe Biden,@DanBilzerian,fuck right off,0,1
+55,Joe Biden,@oncloud_e,hey man that sounds cool  but what are you actually doing for us right now to show it,1,1
+56,Joe Biden,@Culture_Crit,today is easter sunday ,0,0
+57,Joe Biden,@RyanAFournier,enjoy the ratio ,1,1
+58,Joe Biden,@GordoDan_,happy eggs day,1,1
+59,Joe Biden,@notanokguy,youre the weakest president in american history ,1,1
+60,Joe Biden,@alx,the double down is wild,1,0
+61,Joe Biden,@jayblackisfunny,i m sure the replies to this tweet asking for kindness and respect to be shown towards a marginalized community will be  filled  with the kind of christian love that jesus would have wanted from his followers ,1,1
+62,Joe Biden,@0HOUR,christ is king,1,1
+63,Joe Biden,@Liberacrat_,you misspelled happy easter you loser ,1,1
+64,Joe Biden,@wealth_turtle,this is what democrats are celebrating,1,1
+65,Joe Biden,@SteveInmanUIC,happy jesus day of visibility you demon  ,1,1
+66,Joe Biden,@Liberacrat_,what visibility and rights dont these people have  remind me again ,1,0
+67,Joe Biden,@Bubblebathgirl,today is easter ,0,0
+68,Joe Biden,@MattWallace888,the biden administration is run by a group of people who hate christians    ,0,0
+69,Joe Biden,@Pismo_B,you are a sick pathetic twisted pos ,0,0
+70,Joe Biden,@RonnyJacksonTX,today is easter  ,0,0
+71,Joe Biden,@LangmanVince,speaking of transgender awareness  this one killed   people  including   children in nashville last year,0,0
+72,Joe Biden,@hypnoksa,happy easter,1,1
+73,Joe Biden,@debbieformola,i noticed last week you didnt mention vietnams veterans day   but you absolutely needed to announce this   ,1,0
+74,Joe Biden,@classicsgroyp,were celebrating easter,1,1
+75,Joe Biden,@CramerTracker,on easter ,0,1
+76,Joe Biden,@pnwguerrilla,now call me crazy  but wouldnt this imply that there are invisible transgenders  ,1,0
+77,Joe Biden,@3YearLetterman,its jesus s birthday  joel  delete this,0,1
+78,Joe Biden,@ProgressingCali,then go full visibility  release the manifesto ,1,1
+79,Joe Biden,@notmrmanziel,its easter man ,0,1
+80,Joe Biden,@FilipeSabara,shame on you  today is easter ,0,0
+81,Joe Biden,@TTEcclesBrown,joe biden stands up for women this easter ,0,1
+82,Joe Biden,@LangmanVince,youre truly demonic,1,1
+83,Joe Biden,@Liberacrat_,we saw your real message  briben  ,1,1
+84,Joe Biden,@TheSouthGAJohn,patriot day of visibility is on november  th,0,1
+85,Joe Biden,@Ran_Dumb_Libs,like a dog that never gets attention  ,1,1
+86,Joe Biden,@BrianNMazzola,i believe in forgiveness  but if you continue to live this way  theres a special place in hell for you  mr  joe biden ,1,1
+87,Joe Biden,@MalCan4401,make them as visible as possible   transdayofvisibility,1,1
+88,Joe Biden,@PlanetOfMemes,im sorry  we moved that ,0,0
+89,Joe Biden,@MafinhaBarba,you will lose  the american people will not tolerate such disrespect ,1,1
+90,Joe Biden,@DieselBABE20,youre a sick  evil  vile man   any other day easter is for jesus   i hope this backfires tremendously for you   ,0,0
+91,Joe Biden,@ConserValidity,correction  dementiajoes handlers  ,0,1
+92,Joe Biden,@Motabhai012,this pretty much explains todays society,1,1
+93,Joe Biden,@SameeraKhan,its easter  you satanic idiot ,0,1
+94,Joe Biden,@Brick_Suit,a stray template appeared,1,1
+95,Joe Biden,@wokeandwoofing,one of the hardest struggles facing  these deeply oppressed people  is that the very often get mistaken for rich straight white guys who have just put on a dress to flip the game  and climb straight  to the top of the victimhood pyramid ,1,1
+96,Joe Biden,@RealComfyfren,this is my least favourite jewish holiday,0,1
+97,Joe Biden,@ChristyCanyon11,for the first time in a long time  i have no words  id seriously had to look four times to make sure that this wasn t a parody account  ,1,0
+98,Joe Biden,@raymo_g,oh f ck off,1,1
+99,Joe Biden,@MatthewJshow,the american people are just sick of the evil installed scumbag in the wh ,0,0
+100,Anthony Albanese,@Jennacide12,j m  cheer,0,1
+101,Anthony Albanese,@jmcheer1,the military industrial complex doing high fives  ,0,1
+102,Anthony Albanese,@_SocialDemocrat,i was totally expecting the pile on ,1,1
+103,Anthony Albanese,@OzWiltshire,   billion as against      billion for aukus ,1,1
+104,Anthony Albanese,@dyingforashit,yet none of that will cause you to raise the rate or do anything else for anyone in poverty  ,0,1
+105,Anthony Albanese,@MattH093,war criminal,0,0
+106,Anthony Albanese,@disirregardless,great timing dude,1,1
+107,Anthony Albanese,@TchhhTchhhh,not a defence deal  a war mongering deal     ,0,0
+108,Anthony Albanese,@m_aryel_len,heart heart love,1,1
+109,Anthony Albanese,@ayshipie,read the damn room,0,0
+110,Anthony Albanese,@songdo101,and the transparency you promised ,0,1
+111,Anthony Albanese,@__BreadMaker__,wait   i need those electrons for my air conditioner ,1,1
+112,Anthony Albanese,@bobbydoobla,with parts imported from    germany,1,1
+113,Anthony Albanese,@VyperMk1,so we are becoming arms dealers now ,1,1
+114,Anthony Albanese,@AusPolMate,great work        well paid jobs  ,1,1
+115,Anthony Albanese,@DredgeDiver,no doubt a positive spinoff from albanese commitment to genocide in gaza ,1,0
+116,Anthony Albanese,@ghosty_gamin,cut all ties with china and russia now  ,1,1
+117,Anthony Albanese,@DILLIGAF666_,mickamious,0,1
+118,Anthony Albanese,@MickamiousG,anyone else noticing whilst the economy is crumbling  australians are suffering through a cost of living crisis     ,0,0
+119,Anthony Albanese,@1AdjustedOp,so      billion  aukus  minus the    billion for the deal you say youve just done ,1,1
+120,Anthony Albanese,@Theblackfemini3,where are the parts being sourced from  ,0,0
+121,Anthony Albanese,@MoiraDeemingMP,but will they be gender neutral ,1,1
+122,Anthony Albanese,@notonmywatchfyi,you better hope between then and now      nothing reeves up       just remember china has eyes on their prize by          that means any where between now and then  ,0,1
+123,Anthony Albanese,@maddymadz83,expel the israeli ambassador now     ,0,1
+124,Anthony Albanese,@rambleon26,here we go a defence export deal with germany one of the zionist best friends,1,1
+125,Anthony Albanese,@AndyJay16634390,this is starting to wreak of propaganda    just get on with the job ,0,1
+126,Anthony Albanese,@ChanCha52615650,a future built on war  seriously      come on we can do better than this old mans paradigm  everyone is broke so lets have a war   not on my watch  get with the program  order of the new world  out with the old ,1,0
+127,Anthony Albanese,@zjalapenoo,lockheed deal on or off ,1,1
+128,Anthony Albanese,@belyndar,enough warmongering already  enough ,0,1
+129,Anthony Albanese,@LJPG_23,of all days to announce something like this pm  tone deaf and no shame  australia  leading country in manufacturing war weapons and machinery  wow  i m so proud  not      ,0,0
+130,Anthony Albanese,@jewy_420,resign ,0,1
+131,Anthony Albanese,@FlaneurCulture,the question this raises  is why germany  the largest manufacturing economy in europe  cant produce their own vehicles ,0,0
+132,Anthony Albanese,@Maureendoyle52,you are the greatest embarrassment we have ever had in australia  yep  even eclipsed the dreaded morrison  you now have the blood of the aussie aid worker on you hands as well  you are a craven coward  grow some balls and speak up against the zionist in your party ,1,1
+133,Anthony Albanese,@Im_just_a_dude8,so are we revving up some sort of war economy now ,0,1
+134,Anthony Albanese,@whysofishy,albo getting ready for war ,1,1
+135,Anthony Albanese,@nviolets49,so will this contract prop up netanyahu  the zionists that are into genocide and supply weapons to the idf    just asking       ,0,1
+136,Anthony Albanese,@UserHomey,go phukc yourself albo   ,1,1
+137,Anthony Albanese,@nickengerer,make australia a republic and end such nonsense ,1,1
+138,Anthony Albanese,@SonicTulane,when you actually read the words  his majesty the king  you realize how wanky it is and ridiculous that grown people are still playing dress ups like this in     ,0,1
+139,Anthony Albanese,@vmainard,the next gg that should sack you and your government before you bankrupt us  you are worse than gough whitlam  and he was sacked ,1,1
+140,Anthony Albanese,@DLiibertarian,great  an activist as governer general    ,1,1
+141,Anthony Albanese,@AussieBotStudio,the king also sucks up the climate cult nonsense  youre a joke albo ,1,1
+142,Anthony Albanese,@threedogsonekid, a climate change and gender advocate  ,1,1
+143,Anthony Albanese,@TraceyLee_07,what a brilliant decision to appoint a climate change gender equity activist  these are the top priorities for australians  and its about time someone took action   ,1,1
+144,Anthony Albanese,@eevblog,cool  but is the new gg willing to ensure that the government doesnt violate our civil liberties like what what happened during covid under the previous gg ,1,0
+145,Anthony Albanese,@nogulagsagain,sam mostyn never had a real job but she is rather described as a climate change and gender equity advocate  ,0,0
+146,Anthony Albanese,@BarnsGreg,this is pathetic  in      having to go to a foreign monarch to appoint his representative in australia  no wonder we are not fully embraced by asia ,0,0
+147,Anthony Albanese,@QBCCIntegrity,why are you not respecting the democratic vote of our referendum ,0,0
+148,Anthony Albanese,@esilacSynohtnA,honoured   you wouldnt know what that means  ,1,0
+149,Anthony Albanese,@crypto_vishu,what era we living   seeking approvals from someone in uk to appoint our own governor   this arrangement and constitution is old and obsolete  not fit for any purpose other than keeping king tax funded  ,0,0
+150,Harley Reid,@FootyonNine, hes doing dont argues like a     game player  ,0,0
+151,Harley Reid,@SENWABreakfast,came in strong off the top of the show this morning with the big breaking news that harley reid has requested a number change  ,1,1
+152,Harley Reid,@Cpcc15,unpopular opinion harley reid wont win the rising star,1,1
+153,Harley Reid,@matt__nicholls,harley reid  west coast ,1,1
+154,Harley Reid,@7Vini_szn,explain this in football terms ,0,1
+155,Harley Reid,@SENWABreakfast,tim gossage tells us that harley reid has requested a jumper number change from   to    ,0,1
+156,Harley Reid,@DanielWarland,harley reids team mates absolutely burning him at every opportunity  hate to see it  afldogseagles,1,1
+157,Harley Reid,@RubbishYCH,harley reid is going to be good  but right now  he isnt  ,0,0
+158,Harley Reid,@MattCraigDT,not sure if this is forbidden to say  but harley reid is looking like i would on a saturday early in the season  havent seen him break out of a jog   unfit,0,0
+159,Harley Reid,@BrendanfFoster,in some personal news  ive been made editor of the ,1,1
+160,Harley Reid,@BreakevensPod,     with massimo to play  harley reid my lowest remaining score with     unless massimo goes large looking at         supercoach,0,1
+161,Harley Reid,@sportsbyfry,power ranking       aflfantasy cash cows round     ,1,1
+162,Harley Reid,@RCT_10, a goal to harley reid would get this crowd up and about    kelli is just voicing my thoughts on national tv now,1,0
+163,Harley Reid,@acpea1989,the way west coast looked today  there is a great chance that harley reid is going to pull a horne francis and leave at seasons end    afldogseagles,1,1
+164,Harley Reid,@ben_nexhip,sam mclure said theres no possible way dustin martin was playing at richmond this year  he said confidently that west coast would not take harley reid  no credibility whatsoever,0,0
+165,Harley Reid,@LukePH10,harley reid being completely shit on by footy supporters already  god this is exhausting,0,0
+166,Harley Reid,@TimGossage,the promise of more transparency in      continues with five players being made available to local media at club hq tomorrow  ,0,1
+167,Harley Reid,@reallyrealhans,almost untackleable  west coast eagle harley reids fend offs leave teammates in awe https   afl com au news         almost untackleable west coast eagle harley reids fend offs leave teammates in awe  afl,1,1
+168,Harley Reid,@westaustralian,west coast coach adam simpson has defended the west australians coverage of star draftee harley reid ,1,1
+169,Harley Reid,@LMcKirdy7,west coast supporters when harley reid made that run down the sideline against the giants  ,1,1
+170,Harley Reid,@5edicii,there is no scenario where he needs to be doing all that,0,0
+171,Harley Reid,@stevosfooty,feel so bad for harley reid just let him go to geelong where he would love and get heaps of geelongs picks and players for it,0,0
+172,Harley Reid,@giltius,save your money bombers  harley reid available in   years,0,1
+173,Harley Reid,@MarkDuffield1,what west coast must do to keep harley reid in perth,1,1
+174,Harley Reid,@marmalade_aus,harley reid matching up on the bont,1,1
+175,Harley Reid,@yxngbukayo1,if i was harley reid i wouldve rather been drafted into the army,0,1
+176,Harley Reid,@GSambo16,would love to see harley reid move to halfback  clearly doesnt have the tank to be full time mid  let him get use to feeling the ball   afldogseagles  afl,0,0
+177,Harley Reid,@leafy17,i dont know who has got a tougher job    ,0,0
+178,Harley Reid,@DanielGarb,eagles have been better than scoreline suggests but getting killed in the ruck  no choice but to keep bailey williams in there ,0,0
+179,Harley Reid,@cobyhewitt1,she just said ohh bad miss by harley reid     it was gibney,0,0
+180,Harley Reid,@96FMPerth,what elliot yeo said to harley reid seconds before that early play down the wing           listen here     https   bit ly  a pu g  clairsyandlisa ,1,1
+181,Harley Reid,@RocketSmith1985,do not compare other areas with colby mckercher    he smashes harley reid,0,1
+182,Harley Reid,@Johncen16437480,only w your shitty club will get wont make a difference tho will still be   th next    years,0,0
+183,Harley Reid,@RocketSmith1985,harley reid wont make it   not fit enough,0,0
+184,Harley Reid,@ChristouDe60816,i mean anything that says the eagles are pathetic and harley reid probably wont stick around,0,0
+185,Harley Reid,@FREOGIRL,he may be an ok up and coming but so far not matching with the other top picks   hes been close to the worse pick in supercoach which is mostly based on hard ball gets  pressure   efficient use of the ball  do the talk do the walk ,0,1
+186,Harley Reid,@ShaunaDale18,how wonderful,1,1
+187,Harley Reid,@ATeeL,lets go boyyyyy,1,1
+188,Harley Reid,@RocketSmith1985,harley reid what a superstar of the game     ,1,1
+189,Harley Reid,@agsirr_sirr,any danger of performing tomorrow ,0,1
+190,Harley Reid,@Pepsta3,lets go harley    ,1,1
+191,Harley Reid,@AussiePunter32,he is  everyone whos dealt with him at the club including the general staff all say the same just a genuinely decent nice country kid   hes had a full year of dealing with the constant media so he copes with it well  apparently all our kids are really good decent human beings ,0,1
+192,Harley Reid,@Caprah112,he seems a genuinely good guy  just hope eagles fans have realistic expectations for him as he gets more experience,0,1
+193,Harley Reid,@LALLI2024,very creepy obsession with a very young man,1,1
+194,Harley Reid,@wulth_,those clearances   ,1,1
+195,Harley Reid,@wullywool,oh my hes good,0,1
+196,Harley Reid,@whughjackyjacky,never seen someone more overated,0,0
+197,Harley Reid,@lightweightbby,how bout those marks,1,1
+198,Harley Reid,@wdidhetho,did he get a touch all game,0,1
+199,Harley Reid,@wdidhetho,i think hes my dad,0,1
+200,Myley Cyrus,@maga10,aloha                  psntd ,1,1
+201,Myley Cyrus,@powerranger_x,absolutely exceptional  miley is sexy to the core  i actually had a dream of her yesterday or today  while i was sleeping  how awesome  no joke  ,1,1
+202,Myley Cyrus,@Isa_Massi,that a girl miles          ,1,1
+203,Myley Cyrus,@AntonioMautor,queeeeenn ,0,1
+204,Myley Cyrus,@Investorsaurus2,u look stunning in this campaign best of luck d g,1,1
+205,Myley Cyrus,@MileyNation13,lookin like a model who just got a check  ,1,1
+206,Myley Cyrus,@LoveDog910,looking at these sunglasses makes me want to throw out all my old pairs and start fresh   dgeyewear,0,0
+207,Myley Cyrus,@HChauOffical,absolutely stunning photos  cant decide if im more in awe of the eyewear or the photography skills  amazing work ,1,1
+208,Myley Cyrus,@fearqueerhorror,love it queen ,1,1
+209,Myley Cyrus,@AIDE_DePIN,cant see myself affording those designer sunglasses  but i can definitely admire them from a distance  dgeyewear,0,0
+210,Myley Cyrus,@httpsrealitys,goooooo,0,1
+211,Myley Cyrus,@Flo_Hauz,love the looks  those frames with the clear lenses look sooo good  ,1,1
+212,Myley Cyrus,@Isa_Massi,im glad that ,1,1
+213,Myley Cyrus,@send2marie,this is so hot  miley omg ,0,0
+214,Myley Cyrus,@MileyEdition,these photos are insane  ,1,1
+215,Myley Cyrus,@MileyEdition,miley cyrus x dolce   gabbana    ,0,0
+216,Myley Cyrus,@wilkystorm,you are so f ing hot,1,1
+217,Myley Cyrus,@khalidauad,we need the song on spotify,0,0
+218,Myley Cyrus,@MileyCyrusBR,queen of glasses ,1,1
+219,Myley Cyrus,@MileyEdition,two legends   its literally so perfect  ,1,1
+220,Myley Cyrus,@MileyEdition,ii most wanted,0,0
+221,Myley Cyrus,@MileyCyrusBR,we need an live performance  ,0,0
+222,Myley Cyrus,@MTV,the song is soooo good,1,1
+223,Myley Cyrus,@beyoncegarden,oh exactly miley awww      ,0,0
+224,Myley Cyrus,@Unapologetic_Z,beyhive loves you miley   ,1,1
+225,Myley Cyrus,@Verizon,the queen isnt the only one with bars  ,0,0
+226,Myley Cyrus,@JoshJay990,we love you ,1,1
+227,Myley Cyrus,@httpsrealitys,best duo ever           ,1,1
+228,Myley Cyrus,@taradublinrocks,i love this sisterhood so much  cowboycarter,1,1
+229,Myley Cyrus,@redforjanet,the legendness jumped out  ,0,1
+230,Myley Cyrus,@redforjanet,hearing miley   beyonc  on the same track has to be my favorite part of the night  honestly  they meshed into one right before my ears ,0,0
+231,Myley Cyrus,@khalidauad,mothers,1,1
+232,Myley Cyrus,@youtubemusic,this song is iinsane omg  ,1,1
+233,Myley Cyrus,@alexissTyler,hope youre on the next album    now playing  angels like you,1,1
+234,Myley Cyrus,@viniwho,love u so much  so happy to see everything u are achieving   ,1,1
+235,Myley Cyrus,@MileyMedia,you both were amazing  love you   the song so much  we re so proud of you mc ,1,1
+236,Myley Cyrus,@MorpheBrushes,screaming and crying rn  ,0,0
+237,Myley Cyrus,@msyonceslay,yes miley we love it      ,1,1
+238,Myley Cyrus,@MileyCyrusBR,queens  ,1,1
+239,Myley Cyrus,@purethiquekj,if you only knew how long ive dreamed about this collaboration  ive been a fan of the both of you since      and y all truly made me be the person i am today  i m so proud and grateful  ,1,0
+240,Myley Cyrus,@ObsessedSmiler,mother you ate omg,0,1
+241,Myley Cyrus,@goonica_denise,babygirl the singing you put down on this one here,1,1
+242,Myley Cyrus,@MileyCyrusBR,we love u girls  ,1,1
+243,Myley Cyrus,@s0urpatchkiid,easily one of my favorite songs i cant wait to see this live you ate queen,1,1
+244,Myley Cyrus,@__Onixivy_,mileyonc  stans winning      ,0,1
+245,Myley Cyrus,@Bey_riding,love you miley,1,1
+246,Myley Cyrus,@LeeLovesBey,the song is so amazing   we love you miley,1,1
+247,Myley Cyrus,@godisyung,everyone get up         streammmmmmm,0,1
+248,Myley Cyrus,@viewsxpic,yoooooo    this is where the  original shirt link guys    ,0,1
+249,Myley Cyrus,@_melayela_,period  ,0,0
+250,Jake Paul,@Der_Vevemeister,will your fight versus tyson be real  or a show fight  id really like to know ,0,0
+251,Jake Paul,@sugaFreeFC,better be ready for  myke ,1,1
+252,Jake Paul,@AST_ute,sorry thats incorrect  this is the joint worst mvp prospects card  along with number     the others were either headlined by ashton sylve  amanda serrano or jake paul ,0,0
+253,Jake Paul,@Kimbo_Sabbi,exhibition fight against a    year old man is not real boxing or any contribution to boxing in any way  shape or form  its a circus show      ,0,0
+254,Jake Paul,@Haha_Soha,ready to watch some ncaaw games  but lets be real  ill probably spend half the time yelling at the screen and the other half marveling at these athletes skills  win or lose  theyve already won our hearts and kept us entertained  cheers to them  and to us fans who ride the ,1,1
+255,Jake Paul,@JimmyMack0320,jake paul taking his expo fight with tyson more seriously than ,0,0
+256,Jake Paul,@AltcoinGordon,when are you fighting the pensioner ,0,0
+257,Jake Paul,@dylonmusk_,play the game boy,0,1
+258,Jake Paul,@GodlyDevotions,praying for a blessed day for everyone reading this     ,1,1
+259,Jake Paul,@fanscorecard,jake always brightens my day ,1,1
+260,Jake Paul,@W_M_T_V_,ksi owns you dawg,1,1
+261,Jake Paul,@triffic_stuff_,thoughts on this jake ,0,1
+262,Jake Paul,@KSI,i m back baby  fighting    year old legend and former champ  don t worry  age ain t nothing but a number  forman hits harder and is faster than ever before ,0,0
+263,Jake Paul,@TheKingofJewelz,this guy is launching,1,1
+264,Jake Paul,@lezramgomez,is this guy the goat,1,1
+265,Jake Paul,@finestkhidhb,we are watching ,1,1
+266,Jake Paul,@Jmagings,april fools  ,0,1
+267,Jake Paul,@ItsTheD0n,wasup,1,1
+268,Jake Paul,@Slickwilly617,bro angel reese is not lettin you hit,0,0
+269,Jake Paul,@breezybetter07,is that it  is that the tweet youre going with  wow  as your biggest fan since       i m not impressed  you know  when it comes to expressing your thoughts on twitter  you have the freedom to use up to     characters in a single tweet  its incredible to think that there are ,1,1
+270,Jake Paul,@TrRonaldoCR7,  bitcoin   need     ,0,0
+271,Jake Paul,@KazzeeJ,you to busy looking for fights in the retirement home  ,1,1
+272,Jake Paul,@GrokovichNik,try to beat this guy  ,1,1
+273,Jake Paul,@dandeitz2,to bad you cant be like that for boxing fans,0,0
+274,Jake Paul,@akaEmerge,i dont want to lose anymore money on jake ,0,0
+275,Jake Paul,@ivanrybachuk,hello jake  ,0,1
+276,Jake Paul,@fawcett_he82331,hi jake tell logan i said happy birthday,1,1
+277,Jake Paul,@JoeBets007,put it on betr,1,1
+278,Jake Paul,@5sKade,lets go champ,1,1
+279,Jake Paul,@John117Jackson,geaux tigers ,0,1
+280,Jake Paul,@Nanovargas44,fight a boxer,0,0
+281,Jake Paul,@LukeJarrett1892,ur just ksi s pet,1,1
+282,Jake Paul,@smoke24356,yuck tweet,0,1
+283,Jake Paul,@BloodRawTruth,hi my name is jake paul  im a feminist  please pay me,1,0
+284,Jake Paul,@Holywarsenal,has anyone noticed he tweets after ksi violates him   bro acting like he dont see it,0,0
+285,Jake Paul,@AXDVEmzGgN25234,we ain t watching them dishwashers    ,1,1
+286,Jake Paul,@AshtonPillow3,how much they pay you to say that ,1,1
+287,Jake Paul,@_Mo2001_,w for fighting old age pensioners jake,0,0
+288,Jake Paul,@JKINGS314,you take roids,1,1
+289,Jake Paul,@DanaIsGoated,nobody watching it like your fights  ,1,1
+290,Jake Paul,@GodlyDevotions,praying for a blessed day for everyone reading this     ,1,1
+291,Jake Paul,@dewrlddd,we good,1,1
+292,Jake Paul,@ittybitty0titty,sounds like a stacked lineup  cant wait to catch the action live on ,1,1
+293,Jake Paul,@Aus10Boxing,this guy do be a lil fire,1,1
+294,Jake Paul,@Allday215757,if you want ppl to take you serious in boxing why not fight  tank  canelo  danny garcia  devin hainey  shoot i ll even take caleb plant  but you continue to fight ppl with no boxing background or washed up ufc fighter  the real boxing community take you as a joke ,0,0
+295,Jake Paul,@TheLordsLegion,more real than your fight against tyson ,0,0
+296,Jake Paul,@omiherd,ohhhhh yea gotcha belt lol lol lol,1,1
+297,Jake Paul,@Masterclas66394,nobody knows who these ppl are ,1,1
+298,Jake Paul,@oliviakayax,im not watching a bunch of nobodies box each other,1,1
+299,Jake Paul,@benzypher,i guess he maybe the goat of the herd,1,1
+300,Taylor Swift,@helltonrds,my facebook account got hacked and suspended  how do i get my account back  ,0,0
+301,Taylor Swift,@MonsieurFAlls,finally  some new music to drown my sorrows in    cant wait to cry and sing along to the tortured poets department ,0,1
+302,Taylor Swift,@Polvale2,cant wait to dive into this album and explore the highs and lows of love and poetry  april   th cant come soon enough ,1,1
+303,Taylor Swift,@zwzzssksxx1,cant wait to dive into this poetic masterpiece  ive been needing some tortured poet vibes in my life  april    cant come soon enough ,1,1
+304,Taylor Swift,@BearxFromMARS,cant wait to dive into the tortured poets department album on april     who knew love and poetry could be so entertaining ,1,1
+305,Taylor Swift,@KochClaudeg,finally  an album that speaks to my tortured soul  cant wait to drown myself in poetic despair  april    cant come soon enough ,1,1
+306,Taylor Swift,@BearxFromMARS,cant wait to listen to the angsty sonnets and heartbreak ballads on the tortured poets department album  love a good poetic cry session ,1,1
+307,Taylor Swift,@PeterinL57476,cant wait to dive into the poetic drama  april   th cant come soon enough  love and poetry   what could go wrong ,1,1
+308,Taylor Swift,@FelipeS86385650,the album the tortured poets department explores the depths of love and emotions beautifully  cant wait ,1,1
+309,Taylor Swift,@danyfun66,finally  an album for those of us who cant express our feelings in a normal way  cant wait to hear it ,1,1
+310,Taylor Swift,@gomes_vtor,excited to dive into this poetic rollercoaster  hoping it doesnt leave me too tortured   well  maybe just a little   ,0,1
+311,Taylor Swift,@VinylVogue,taylor  youre a true inspiration  im launching a record store to support local music programs  and id love your support  lets keep the music playing for future generations    ,1,1
+312,Taylor Swift,@camuflageee,cant wait to dive into the angsty  heart wrenching lyrics of the tortured poets department  finally  a soundtrack for my dramatic love life ,1,1
+313,Taylor Swift,@the_alex_x15,cant wait to dive into this album and get my heartbroken by some soulful poetry  april    cant come soon enough ,1,1
+314,Taylor Swift,@gomes_vtor,cant wait to dive into the tortured poets department album  love and poetry   hopefully no heartbreak songs on there  april    hurry up ,1,1
+315,Taylor Swift,@CottingLuds1,cant wait to dive into this new album and explore the tortured souls of the poetic world  april    cant come soon enough ,1,1
+316,Taylor Swift,@the_alex_x15,excited to drown my sorrows in some poetic melodies  cant wait for the tortured poets department to drop on april    ,0,1
+317,Taylor Swift,@zpweiheng,cant wait to dive into the poetic depths of the tortured poets department album  love and heartbreak never sounded so good ,1,1
+318,Taylor Swift,@messuwanted,looking for tickets to buy eras tour      taylor swift europe,1,1
+319,Taylor Swift,@selenesoledad,cant wait for the new album  the tortured poets department sounds like its going to be amazing ,1,1
+320,Taylor Swift,@blacksprawl,cant wait to dive into the emotional rollercoaster of the tortured poets department album  love and poetry  what a perfect combo ,1,1
+321,Taylor Swift,@AIDE_DePIN,finally  an album for all us heartbroken wordsmiths out there  cant wait to drown in the sorrowful melodies ,1,1
+322,Taylor Swift,@AssBeautyass,i cant wait to hear the emotions poured into this new album from the tortured poets department ,1,1
+323,Taylor Swift,@khacnghia2902,i from vietnam           ,0,1
+324,Taylor Swift,@ON9CCSeng,cant wait to dive into this emotional rollercoaster of a album  grabbing tissues and preparing for all the feels ,1,1
+325,Taylor Swift,@sunkwaking,i cant wait to dive into the tortured poets department  i know its going to be amazing ,1,1
+326,Taylor Swift,@KochClaudeg,cant wait to dive into this album and drown in some poetic anguish  april    cant come soon enough ,1,1
+327,Taylor Swift,@DJ9035617762581,cant wait to get my hands on this  finally  a soundtrack for all my dramatic relationship woes  poetry and heartbreak  music to my ears ,0,1
+328,Taylor Swift,@Polvale2,just what i needed to elevate my emo vibes  cant wait to drown in the sea of tortured poet feels  april     hurry up ,1,0
+329,Taylor Swift,@elleffe_,finally  a soundtrack for all of us tortured souls out there  cant wait to make my dramatic poetry readings even more dramatic with this album ,1,1
+330,Taylor Swift,@tolgaerpik,i cant wait to listen to the tortured poets department album  love taylor swifts artistry ,1,1
+331,Taylor Swift,@dtygghgfdry,youre contributing meaningfully  thank you ,1,1
+332,Taylor Swift,@lkbahar90045406,finally  a soundtrack for my deep  melodramatic soul  cant wait to drown in poetic angst   ,1,1
+333,Taylor Swift,@10HeMaEmAm,finally  a soundtrack for all those emotional rollercoaster moments  cant wait for the tortured poets department to drop on april    ,1,1
+334,Taylor Swift,@OneBadDude_,you look eerily similar to the daughter of the founders of the church of satan ,1,1
+335,Taylor Swift,@Laza43805690,taylor swifts eras tour spans three and a half hours  featuring hits like  cardigan  and debuting four new tracks ,1,1
+336,Taylor Swift,@Drake__Just,i cant believe i can now watch all of taylor swifts incredible performances whenever i want ,0,0
+337,Taylor Swift,@zinabe7,absolutely  and thanks for sharing ,1,1
+338,Taylor Swift,@Omnifii,screenshot this if you love taytay,1,1
+339,Taylor Swift,@CarreraRoselin,agreed  thanks for sharing your thoughts ,1,1
+340,Taylor Swift,@teuteuandrade,i cant believe i can now stream all   and a half hours of tay tays concert on disney plus  cant wait to listen to all of her new acoustic songs ,1,1
+341,Taylor Swift,@MariaMafedipa,agreed  your perspective sheds light ,1,1
+342,Taylor Swift,@donalduck_,spot on  i couldnt agree more ,1,1
+343,Taylor Swift,@LuisMadden,absolutely  thanks for your contribution ,1,1
+344,Taylor Swift,@aleymar_0709,appreciate your comment  thank you ,1,1
+345,Taylor Swift,@bravosambigotes,agreed  thanks for sharing ,1,1
+346,Taylor Swift,@lupusssgc,youre making a strong point  thank you ,1,1
+347,Taylor Swift,@echacon12,i am absolutely obsessed with taylor swifts acoustic songs from the eras tour on disney plus  they are pure magic ,1,1
+348,Taylor Swift,@BaseMan14,i am so excited to stream taylor swifts the eras tour on disney plus  its a must watch ,1,1
+349,Taylor Swift,@Laza43805690,taylor swifts the eras tour would be an incredible experience  showcasing her evolution as an artist over the years  with performances including hits like  cardigan  and four new songs  fans would be transported through time and get a taste of swifts incredible musical journey ,1,1
+350,Lebron James,@DanCampbellGOAT,hes just lucky he isnt coaching you  we all know what you do your coaches  ,1,1
+351,Lebron James,@shivaye01,the richest man in the world    ,1,1
+352,Lebron James,@UtdStagy,the nba wouldnt be the same without you ,0,0
+353,Lebron James,@UtdStagy,king ,1,1
+354,Lebron James,@tryhavocenergy,is he in fortnite tho   ,0,0
+355,Lebron James,@2sush,keep going on and keep blessing us  ,1,1
+356,Lebron James,@Dirti_SEI,dirty dog,0,1
+357,Lebron James,@cryptoknig65902,goat     ,1,1
+358,Lebron James,@wealth_turtle,hes definitely not perfect,1,0
+359,Lebron James,@UtdStagy,please dont retire anytime soon   ,0,1
+360,Lebron James,@ParsonsTakeover,no diddy king,0,0
+361,Lebron James,@T_ee_mex,what you doing bruh,1,1
+362,Lebron James,@Nehemias77Cas,the one english comment your looking for,1,1
+363,Lebron James,@UtdStagy,god bless you,1,1
+364,Lebron James,@wojdespn,lebron pls check your dms from me,1,1
+365,Lebron James,@dekunleaa,skippa lebron james is ma captain,1,1
+366,Lebron James,@Vladan48186430,who else is out here speaking fax about lebron like me,0,0
+367,Lebron James,@braakyz8,goatest player of all time hes my man,1,0
+368,Lebron James,@Maleekback,lebron the goat,1,1
+369,Lebron James,@pearl1541253,such a cute guy      ,1,1
+370,Lebron James,@sparkle0100,legend,1,1
+371,Lebron James,@ParsonsTakeover,he looks like you king,0,0
+372,Lebron James,@Teeeisback,hes handsome too,1,1
+373,Lebron James,@marionnettea,that doesnt even make sense,0,1
+374,Lebron James,@saif5553333,nice game tonight lebronto,1,1
+375,Lebron James,@sparkle0100,king  ,1,1
+376,Lebron James,@wealth_turtle,hes lowkey ugly,0,1
+377,Lebron James,@scarydrea,this is such a nice way to flirt with him,0,1
+378,Lebron James,@ohmcrae,goat,1,1
+379,Lebron James,@w5w99,wait wait wait this is the guy,1,1
+380,Lebron James,@BOOGIE7278,just like his pops right  congrats coach      ,1,1
+381,Lebron James,@Meech330BBG,  ,0,1
+382,Lebron James,@goat7_cr7,u r my sunshine,0,1
+383,Lebron James,@GetBaitedSir,ayooooooo,0,1
+384,Lebron James,@DADDYD_118,ped s,0,1
+385,Lebron James,@luck43130, lbrn to the moon   ,1,1
+386,Lebron James,@bobbybowe66,that s a great irish name joyce we ve had ,1,1
+387,Lebron James,@crackloverrr,bronny goin there fosho,0,0
+388,Lebron James,@jsllybeans,i wish i was born in this type family,0,0
+389,Lebron James,@oyedun_emiola,thats a wrap thumbs up,1,1
+390,Lebron James,@theo4982,you are my sunshine,1,1
+391,Lebron James,@theBarkhantimes,bronny going to dusquesne confirmed,0,1
+392,Lebron James,@ownedbychoppa,bronny to duq       ,0,1
+393,Lebron James,@THEEJoeMess,uh oh   would be wild,1,0
+394,Lebron James,@TheBlackOffice2,stop already smh,0,0
+395,Lebron James,@JoshuaNoah21, nodiddy  diddler,0,1
+396,Lebron James,@lakeshowbronc0,is this your king why not ,0,0
+397,Lebron James,@KeshaunEmerson,welp,1,1
+398,Lebron James,@KenHill11,i admire how you always show appreciation  support  and loyalty to your family friends and kids from akron cleveland    columbus  ohio  i am sure youve shared some plays  ideas   tips with him already  respect     ,1,1
+399,Lebron James,@Pennflex_GM,the king has spoken  ,1,1
+400,Billie Eilish,@BillieEilishBR,ok ,1,1
+401,Billie Eilish,@dnk900,yes ,1,1
+402,Billie Eilish,@WWEderrickanoi4,awesome,1,1
+403,Billie Eilish,@Makjesty,milli billie irish eilish    ,1,1
+404,Billie Eilish,@bloodylikeabody,it s been   years ,0,1
+405,Billie Eilish,@billiestreams__,genius album ending,1,1
+406,Billie Eilish,@billiestreams__,billie now be  please,0,1
+407,Billie Eilish,@st0pbeingflirty,what now  ,1,1
+408,Billie Eilish,@KxngPlayzYT,we would like to celebrate the new album,1,1
+409,Billie Eilish,@KxngPlayzYT,my debut single  when i thrive  is officially out now ,0,0
+410,Billie Eilish,@therrese_,clean,0,0
+411,Billie Eilish,@EgheFamous,aoty for a reason ,1,1
+412,Billie Eilish,@feelthemusicglo,yes      ,1,1
+413,Billie Eilish,@Teslaconomics,yo quiero un tesla en argentina   ,1,1
+414,Billie Eilish,@cardosojr1999,libera mulher,0,1
+415,Billie Eilish,@BillieSpotify_,we want to celebrate with new music    ,1,1
+416,Billie Eilish,@Darrienprkr11,wow  been playing tf out of this for the past week lol ,0,1
+417,Billie Eilish,@dsambitch,girl bye ,0,0
+418,Billie Eilish,@asheseilish,count ur days,1,1
+419,Billie Eilish,@thebe3era,move billie move,0,1
+420,Billie Eilish,@itisangiec,will always be my favorite album  ,1,1
+421,Billie Eilish,@KyleAMitchell,i remember this  wait  what is it ,1,1
+422,Billie Eilish,@MarkG52480690,youre the best at doing you  so keep doing youre,1,1
+423,Billie Eilish,@paperboxZ,always be waiting ,1,1
+424,Billie Eilish,@Maritza12885182,cool   ,1,1
+425,Billie Eilish,@VaniaRobles24,we ve been listening         ,1,1
+426,Billie Eilish,@erinseilish,celebrate a new album announcement ,1,1
+427,Billie Eilish,@st0pbeingflirty,run from them haters gurl,1,0
+428,Billie Eilish,@venus_moons0,the notif gave me a stroke actually,0,0
+429,Billie Eilish,@erikaluvsidsb,palladium,0,1
+430,Billie Eilish,@johanburgershop,my invisalign has i have taken i have taken out my invisalign and this is the album hahhahahahhahahhahahhahhahahaaaaaaaa,0,0
+431,Billie Eilish,@joeltovarr,well let s say hello to the new era,1,1
+432,Billie Eilish,@_positions__,ok now what ,0,1
+433,Billie Eilish,@BillieSpotify_,now please announce something,1,1
+434,Billie Eilish,@bloodylikeabody,now what s gonna happen,0,1
+435,Billie Eilish,@dsambitch,atp were tired,0,0
+436,Billie Eilish,@ComuBillieBR,be  rn     ,1,1
+437,Billie Eilish,@andrewscomet,you and your boss are annoying,1,1
+438,Billie Eilish,@therrese_,be  please,0,1
+439,Billie Eilish,@outfotime,girl announce the fucking albummm,0,1
+440,Billie Eilish,@BillieSpotify_,omg,0,1
+441,Billie Eilish,@QGBillieEilish,omg drop the album billie,0,1
+442,Billie Eilish,@thisdracarys,i cant do this right no your so hot,0,0
+443,Billie Eilish,@outfotime,drop the album,0,1
+444,Billie Eilish,@AbcdHard,billie is a bosslady queen,1,1
+445,Billie Eilish,@outfotime,announcement,1,1
+446,Billie Eilish,@InfoBillieBR,the one english tweet your looking for   ,1,1
+447,Billie Eilish,@KxngPlayzYT,goodbye,0,0
+448,Billie Eilish,@KxngPlayzYT,my debut single  when i thrive  is officially out now ,0,0
+449,Billie Eilish,@SUGARBOY_SMALLY,you are better than cardi b,1,1
+450,Kim Kardashian,@MudasarJatt,having tickles ,0,1
+451,Kim Kardashian,@rl27base,cyber babe ,1,1
+452,Kim Kardashian,@SwapSpaceCo,easy change any crypto without registration  ,1,1
+453,Kim Kardashian,@SwapSpaceCo,  earn profit with our affiliate program,1,1
+454,Kim Kardashian,@Trycolour,your dont even,0,0
+455,Kim Kardashian,@Motabhai012,love is the answer     ,1,1
+456,Kim Kardashian,@MudasarJatt,i want to be  ,0,0
+457,Kim Kardashian,@arbabzia555,gorgeous,1,1
+458,Kim Kardashian,@AhmadAl11754421,where are you going  ,1,1
+459,Kim Kardashian,@shakiransari93,nice outfit,1,1
+460,Kim Kardashian,@fatiii4546,looking so amazing,1,1
+461,Kim Kardashian,@Merysondax,can i be yours   ,1,1
+462,Kim Kardashian,@paolacharamina,i guess this is ok,0,1
+463,Kim Kardashian,@MudasarJatt,he doesnt aspecting ,0,0
+464,Kim Kardashian,@MudasarJatt,ooooh kim i know what time it is,0,1
+465,Kim Kardashian,@zaqrider,keep shinning,1,1
+466,Kim Kardashian,@CLalChaudhary,bobo,0,1
+467,Kim Kardashian,@MudasarJatt,deadly wife ,1,1
+468,Kim Kardashian,@sp5derj2,i need more skims men  ,0,0
+469,Kim Kardashian,@chrgarciax,who needs a personal trainer when you have a toddler  running after them all day is the ultimate workout    ,1,1
+470,Kim Kardashian,@10HeMaEmAm,seems like someones been on a bit of a shopping spree  maybe i need to take up knitting too   ,0,0
+471,Kim Kardashian,@gomes_vtor,sounds like i need to up my selfie game if i want to attract a potential mate  maybe its time to invest in a selfie stick ,0,0
+472,Kim Kardashian,@miiziipRiinZz,sounds like my kind of diet plan   all the pizza i want without any guilt ,1,0
+473,Kim Kardashian,@10HeMaEmAm,who knew a conversation about socks could be so entertaining  i might have to rethink my sock drawer now ,0,0
+474,Kim Kardashian,@lunamaxi29,just when you thought mondays couldnt get any worse  i spilled my coffee all over my keyboard  guess ill be typing with sticky keys all day ,0,0
+475,Kim Kardashian,@YachtApe91521,who needs a personal trainer when you can just chase your toddler around all day  momlife,1,1
+476,Kim Kardashian,@KochClaudeg,looks like weve got a real life superhero on our hands  who knew saving the day could involve so much dental work ,0,0
+477,Kim Kardashian,@gomes_vtor,wow  this article really opened my eyes to the importance of wearing matching socks  who knew my fashion choices could make such a difference ,0,0
+478,Kim Kardashian,@DjaysonPetrovsk,looks like ill be eating ramen noodles for the next month after seeing those holiday shopping receipts ,0,1
+479,Kim Kardashian,@EnerHocaoglu,dat ass ages like fine wine,1,1
+480,Kim Kardashian,@EnerHocaoglu,i wanna clean all over that thing,0,0
+481,Kim Kardashian,@amparoal27,wow  i had no idea llamas could be so sneaky  watch out for those crafty little critters ,0,1
+482,Kim Kardashian,@LukeThesen,thats like trying to find a needle in a haystack  good luck to the brave soul who attempts that challenge ,0,1
+483,Kim Kardashian,@tibberton1376,trying to figure out if my great grandmas secret recipe for meatloaf is worth risking getting haunted by her ghost ,0,1
+484,Kim Kardashian,@hindusquotes,cant believe i used to think eating kale was trendy  now im all about that cauliflower craze  who knew vegetables could be so hip ,0,0
+485,Kim Kardashian,@elleffe_,wow  who knew that talking to plants could actually help them grow  i might start having full on conversations with my houseplants now ,1,1
+486,Kim Kardashian,@kai02eksalazar,who knew a simple question could lead to such a hilarious debate among friends  never underestimate the power of asking what if ,1,1
+487,Kim Kardashian,@LukeThesen,looks like someones been sneaking into my pantry at night  those missing snacks definitely werent eaten by ghosts  thats for sure ,0,0
+488,Kim Kardashian,@Schommero62,seems like my dog has been practicing her escape artist skills    guess i need to up my game on securing the backyard ,0,1
+489,Kim Kardashian,@BatKingAte,whirlwind for sure  ,1,1
+490,Kim Kardashian,@UnRayananas,good car,0,1
+491,Kim Kardashian,@meerhassankhan7,a perfect blend of style and sustainability  ,1,1
+492,Kim Kardashian,@UnRayananas,when are returning my truck kim ,0,0
+493,Kim Kardashian,@meerhassankhan7,shes a boss,0,1
+494,Kim Kardashian,@gigachad,when are you returning my truck kim ,0,0
+495,Kim Kardashian,@Surendrajaat01,beautiful,1,1
+496,Kim Kardashian,@grandeiscozy,girl the boycott so you just dont care ,1,0
+497,Kim Kardashian,@2sush,malibu hits different beautiful   ,1,1
+498,Kim Kardashian,@2sushi3234,that ass aint bad fam innit,0,0
+499,Kim Kardashian,@2343hhourstogo,why would you risk that with that car  ,0,0
+500,Cristiano Ronaldo,@GodlyDevotions,praying for a blessed day for everyone reading this     ,1,1
+501,Cristiano Ronaldo,@IbkSports,can t wait to see you win      fifa world cup     ,1,1
+502,Cristiano Ronaldo,@kofi_adofo69,they should rigged the world cup for you just like how qatar did it for messi ,1,1
+503,Cristiano Ronaldo,@bchinyakata,when cr  put on a disguise and no one recognised him,0,0
+504,Cristiano Ronaldo,@monthermh5,the greatest of all time    ,1,1
+505,Cristiano Ronaldo,@fawogyimiiko,you yourself haven t had a taste of a world cup so how are u going to support someone to bring a world cup to saudi    ,1,1
+506,Cristiano Ronaldo,@Views09,ambassador for portugal      and saudi arabia       that s my goat  ,0,1
+507,Cristiano Ronaldo,@SpiderManSpeak,best goal of ronaldo    ,1,1
+508,Cristiano Ronaldo,@hasanalnaqour,great support ,1,1
+509,Cristiano Ronaldo,@Q97m_,greatest of all time  ,1,1
+510,Cristiano Ronaldo,@TotallCR7,this is why we are all behind you my idolo  ,0,0
+511,Cristiano Ronaldo,@farhan_alfarhan,what good luck has brought you to a nation that loves peace and humanity  ,1,1
+512,Cristiano Ronaldo,@UnitedRadar,this man is influential ,1,1
+513,Cristiano Ronaldo,@hermioneoswin,he is really the greatest and most influential sportsman to ever exist ,0,1
+514,Cristiano Ronaldo,@TheVxlverdeSzn,automated,1,1
+515,Cristiano Ronaldo,@hullf,ggggoooooooooooaaaaaaaat                  ,0,1
+516,Cristiano Ronaldo,@ronaldowarrior,maturity is when you realize that ronaldo is better than messi ,0,1
+517,Cristiano Ronaldo,@Arslanshah46,goat,1,1
+518,Cristiano Ronaldo,@AAKHIRI__SACH,well played    proud of you    ,1,1
+519,Cristiano Ronaldo,@CFCBlaze_,             cristiano ronaldo has won the player of the month award in the saudi pro league     ,0,0
+520,Cristiano Ronaldo,@abomnal,we are also proud of your presence at al nasr club  saudi arabia  thank you   cristianoronaldo,1,1
+521,Cristiano Ronaldo,@FazalElahiKhosa,wonderful dear ronaldo,1,1
+522,Cristiano Ronaldo,@faniranafanira1,great sir,1,1
+523,Cristiano Ronaldo,@kenkarmah,the dream is big and realistic  i pray to be a witness  here come      ,1,1
+524,Cristiano Ronaldo,@zeeshandigisink,great,1,1
+525,Cristiano Ronaldo,@DuchaiTb,yes    ,1,1
+526,Cristiano Ronaldo,@quizmasterahmed,waw   hope u will be a legend this time and retired,1,1
+527,Cristiano Ronaldo,@hashimsaqi258,amazing,1,1
+528,Cristiano Ronaldo,@okpraalekwu,big name,1,1
+529,Cristiano Ronaldo,@Ujala4u,best wishes,1,0
+530,Cristiano Ronaldo,@sleyvinlegend,lets make it happen and you better play too    ,1,1
+531,Cristiano Ronaldo,@AlizeyAdeel,love you sir,1,1
+532,Cristiano Ronaldo,@LebaKevin,love,1,1
+533,Cristiano Ronaldo,@esaambaba,this nice,1,1
+534,Cristiano Ronaldo,@Harvey_Speectr,i love ronaldo,1,1
+535,Cristiano Ronaldo,@JawadKh06093517,amazing star,1,1
+536,Cristiano Ronaldo,@LilMoGh,bottled the champions league when it mattered ,1,1
+537,Cristiano Ronaldo,@Views09,the last time messi scored a club hatrick ronaldo was still at juventus  cook them idolo  ,0,0
+538,Cristiano Ronaldo,@AsieduMends,no world cup trophy hahahaha,1,1
+539,Cristiano Ronaldo,@Mompha_Gives,the greatest goat,1,1
+540,Cristiano Ronaldo,@RandomTheGuy_,name something ronaldo cant do  ,0,0
+541,Cristiano Ronaldo,@Vinod_r108,cristiano ronaldos stunning headed goal against sampdoria  rising   meters    centimeters ,0,0
+542,Cristiano Ronaldo,@saintmufc,ageing like fine wine    ,1,1
+543,Cristiano Ronaldo,@abazwhyllzz,why didnt you do all of this in juventus or when you returned to manchester united  why did you run from europe if you are not slowing down   ,0,0
+544,Cristiano Ronaldo,@Vinod_r108,  beautiful hearts   ,1,1
+545,Cristiano Ronaldo,@TotallCR7,always behind you my idol  ,1,0
+546,Cristiano Ronaldo,@OlaseniFeyisayo,the greatest player ever to play the beautiful game of football          ,1,1
+547,Cristiano Ronaldo,@Queen_Aeesha,gather here if you farming  param  for a  x points,1,1
+548,Cristiano Ronaldo,@aditya_web3,whos the  ,0,1
+549,Cristiano Ronaldo,@ellyserwaaa,where is your world cup trophy,1,1
+550,Jimmy Kimmel,@zaqrider,another bang ,1,0
+551,Jimmy Kimmel,@Lunazmom2,i am never watching anything either of you produce ever ,0,1
+552,Jimmy Kimmel,@Ink8Judy,im still cracking up with jimmys ,0,0
+553,Jimmy Kimmel,@DadioKillerB,i dont get this joke,0,0
+554,Jimmy Kimmel,@kareemjeanjr,oscars ratings were awful  amercia ko d jimberly again ,0,0
+555,Jimmy Kimmel,@Burrow2ChaseTD,imagine being grown men and this obsessed with bashing another grown man,0,1
+556,Jimmy Kimmel,@RobertHollist7,jimmy when you go to prison are you going to do blackface again     ,0,1
+557,Jimmy Kimmel,@ScoutKopfjager,newsflash  you and deniro are both irrelevant  no one cares       ,0,0
+558,Jimmy Kimmel,@leo_arellano92,no one likes yall lmao,0,1
+559,Jimmy Kimmel,@PatrickLac007, banjimmykimmelshow,0,1
+560,Jimmy Kimmel,@EricTrammel3,you made trump a cartoon villain   i love you jimmy     you are so awesome  ,1,1
+561,Jimmy Kimmel,@WenDogeCoin,not watching that garbage,1,1
+562,Jimmy Kimmel,@Jason_oct,make america great again  vote trump      ,1,1
+563,Jimmy Kimmel,@cldonline,best reply ever  isn t it past your jail time    to trumps rude  insulting post about your performance at the oscars tonight  ,1,1
+564,Jimmy Kimmel,@mjohn55,you are the worst host ever    you are not funny or talented  ,1,1
+565,Jimmy Kimmel,@JRobFreedom,you suck jimmy,0,1
+566,Jimmy Kimmel,@wells_sl,pretty low to bring up someone s drug addiction on the night they are up for probably the most prestigious award in their industry  but  what else should we expect from  black face jimmy kimmel   i mean  hes lower than the   on my shoe   sorry ,0,0
+567,Jimmy Kimmel,@Kirk_925,i would never watch anything with you as a host   you are a subhuman and filth   ,1,1
+568,Jimmy Kimmel,@MoneyPenny700,the following media includes potentially sensitive content  change settings,1,1
+569,Jimmy Kimmel,@DavidYeshua4,what a pos   kimmel has no respect for women  we know that based on his public behavior  lock him up   ,0,0
+570,Jimmy Kimmel,@Ambriz_Dom,jamie      ,1,1
+571,Jimmy Kimmel,@LibertyJamison,hahaha time to give your awards to the most narcissistic and entitled celebrity  ,1,1
+572,Jimmy Kimmel,@2020lizmac,haven t watched the hollywood pedos give each other awards in years  it used to be a classy show now its nothing but trash as are the movies produced in hollywood ,0,1
+573,Jimmy Kimmel,@TxAeronaut,sharing is caring ,1,1
+574,Jimmy Kimmel,@clhwi2017,boring ,0,0
+575,Jimmy Kimmel,@Nautiguy48,worst oscars host in history ,0,0
+576,Jimmy Kimmel,@girldad72,hey jimmy remember that time you spent  on the island with your other pedo friends  we do ,1,1
+577,Jimmy Kimmel,@donttreadmemes,nobody cares ,0,1
+578,Jimmy Kimmel,@glamfairey,politics should not be mentioned at the oscars neither party  your disgusting ,0,1
+579,Jimmy Kimmel,@JustKimfromoz,youre going to be crying a flood of tears come november mate   dont move to australia   we dont want you here   you were an embarrassment at the oscars   hopefully that will be the last time they ever ask you to host  ,0,0
+580,Jimmy Kimmel,@TheShortKing93,pedo jimmy back at it again,0,1
+581,Jimmy Kimmel,@BenGleib2024,feel the music jimmy,1,1
+582,Jimmy Kimmel,@feelthemusicglo,yes      ,1,1
+583,Jimmy Kimmel,@Teslaconomics,yo quiero un tesla en argentina   ,1,1
+584,Jimmy Kimmel,@BobMute2,no thank you        ,1,1
+585,Jimmy Kimmel,@micalvalencia,congrats on the oscars  it would be awesome if you used your platform   visibility to highlight a family in     there is a huge list to choose from on operation olive branch  tiktok or instagram ,1,1
+586,Jimmy Kimmel,@BobMute2,perhaps the most entertaining part of the oscars is watching the host try to be funny while simultaneously offending as few people as possible  its a tightrope act that often results in a bland  forgettable performance   ,1,1
+587,Jimmy Kimmel,@nurseangel777,its only been    minutes and i m already tired of your lame insulting humor       ,0,0
+588,Jimmy Kimmel,@imustafazia,we love rdj  and you are lower than dirt ,1,1
+589,Jimmy Kimmel,@TeesValleyVoice,when donald trump is back in the white house it will be past your jail time  epstein island visitor ,1,1
+590,Jimmy Kimmel,@WTAFRich,coward making jokes about michael surrounded by your ptah action figures  we see you son ,1,1
+591,Jimmy Kimmel,@Stevo_1969,we know what you did on epstein island  your sick,1,0
+592,Jimmy Kimmel,@BroganDinolfo,time s up  jimmy    ,1,1
+593,Jimmy Kimmel,@PapiTrumpo,jimmy kimmel took the bait      ,1,1
+594,Jimmy Kimmel,@MrsAndy73529976,i m ready   ,1,1
+595,Jimmy Kimmel,@UncleRy_eth,is rodgers handing out any awards    ,1,1
+596,Jimmy Kimmel,@MrsAndy73529976,you are welcome   jimmy  ,1,1
+597,Jimmy Kimmel,@BenCharles2014,yess  lets go,1,1
+598,Jimmy Kimmel,@disser_sapkota,wishing you luck  jimmy  it should be a great show as long as you didnt try to tell any jokes  not your strongest suit   ,1,1
+599,Jimmy Kimmel,@sjoseph_sports,be funny,0,1
+600,Elon Musk,@ElonMuskAOC,i could build it in a year,0,0
+601,Elon Musk,@YourAnonNews,the car manufacturer doesnt like high speed rail  not surprising,0,0
+602,Elon Musk,@Twitermytweet,seriously this is the truth,1,1
+603,Elon Musk,@DotComParker,elon  bots are able to comment scams on my posts and i cant see it because they have me blocked  ,0,0
+604,Elon Musk,@RobJailbreakrob,for all those who want cars to take you where you want to go automatically  ,0,0
+605,Elon Musk,@S3XYPLAID,and tesla auto park with cameras only works absolutely perfect  between this and my fsd test drive last night i totally get when elon said   lidar is a fools errand   the others want to take the easy and temporary route to new features  ,0,1
+606,Elon Musk,@Tesla_Cybercat,the future is here fsdv   navigates three sharp turns and merges with ease in boston s rain drenched rush hour,0,1
+607,Elon Musk,@EdwardDiGi,if cars will be drive themselves  we would not need cars at all  urban transport will be zero margin and people will need less cars  the first threat to  tsla are robotaxi indeed,1,0
+608,Elon Musk,@dblcapcrimpin,when no nags ,0,0
+609,Elon Musk,@cymba_de,yes yes yes but when working autowipers ,1,1
+610,Elon Musk,@X_BEBEeth,elon  what day is the fourth launch plan for the starship ,1,1
+611,Elon Musk,@JamesWLaw1,the second to last to have fsd will be for emergency vehicles police  ,0,1
+612,Elon Musk,@TeslaLisa,question      why are a zillion newbies getting a free month of v   when all legacy s x owners who paid thousands cant get it     thanks ,0,0
+613,Elon Musk,@GagliardiLou,elon  i cant believe how nice my new model y is  i dont understand why anyone would buy anything but a tesla  maybe price would deter them  but i got a great deal on the model y  best value out there  in my opinion ,0,1
+614,Elon Musk,@derekhxw,i just tried v   for the first time with           wow  i have been an enthusiast since v   but still v   really wow me  ,0,0
+615,Elon Musk,@TeslaXplored,will that happen in the nassau queens area of ny too  seems to struggle here a lot  ,0,1
+616,Elon Musk,@somi_teslagirl,ive been sold on  fsd before i even got it in my ,0,0
+617,Elon Musk,@BassonBrain,it will be way better than a human  period     already is ,1,1
+618,Elon Musk,@Avatrode,seeing the progress achieved in fsd v        in terms of safety and even considering only the financial prospect of robotaxi future income     in my estimation   tesla  fsd is worth more now than the hardware value of my      model x plaid ,1,1
+619,Elon Musk,@RyanTanaka3,thanks for helping make the future great,1,1
+620,Elon Musk,@DaveWarnedYou,riding in a car is the most dangerous thing humans do every day  specifically because other human drivers are so bad and unpredictable ,0,1
+621,Elon Musk,@2thdoc2012,ive been thinking about that as ive been testing v       it really is to a certain extent already like a personal taxi,0,0
+622,Elon Musk,@CodingMark,now that the machine is finally churning on a capable  future proof architecture  progress should be unbelievable,1,1
+623,Elon Musk,@PhilFox43249797,and tesla has a multiyear advantage in this high margin   winner take most  fsd business,1,1
+624,Elon Musk,@TeslaSynopsis,elon can fsd beta roll out be a bit faster  especially to cars that had been using fsd beta forever ,1,0
+625,Elon Musk,@roelsmelt,ive told my kids that they most likely will not be allowed to get their driving license and drive their own cars on the road  way to dangerous  ,0,1
+626,Elon Musk,@01Ananto,by saying this now people will get drunk and then try fsd  which not supervise by a human  big statement elon  not a safe one  cause      is still not      perfect ,0,0
+627,Elon Musk,@WayneSn35339982,i really dont want or like that  perhaps if someone  you  would build a people carrier train of fsds linked together to take the mindless where they want to go and drop them off along its way  less traffic  so i can drive my      ford pickup ice   speed truck with no worries ,0,0
+628,Elon Musk,@LizBurgess92677,i think i would put a breathalizer  against the law to drive  drunk      ,0,1
+629,Elon Musk,@aikisteve,i assume that when fsd beta is rolled out in europe it will be again starting with a very limited group of beta testers  makes sense because of all the differences with the us and specifics per country,0,1
+630,Elon Musk,@crossland_rob,i dont like to be the barer of bad news ,0,0
+631,Elon Musk,@SnakeMannn,it will really be amazing how good ,1,1
+632,Elon Musk,@BdPwll81,well i will be that guy in the future that still has a gas guzzler in his garage       id rather transport myself    i would however love a ride in one of those rockets of yours  i hear youre close to breaking through the firmament     ,1,1
+633,Elon Musk,@DansTesla,can t wait to get v    my car has been downloading this for   days lol  tsla,0,1
+634,Elon Musk,@schheng1,the improvements that the world of computing and engineering has brought to the way we live in north america have been incredible and mind boggling            ,0,1
+635,Elon Musk,@MemesOfMars,in germany    the beta still has a lot of work ahead  one week it behaves ok the next it does weird things like trying to go on the exit lane even though the straight lane is super clearly marked ,0,0
+636,Elon Musk,@LandonH,its crazy good  thanks for all the great work ,1,1
+637,Elon Musk,@oi8achevy,speed management is still an issue  how are you going to deal with all the inaccurate speed limit map data  even on v   most of my drives in upstate ny are crippled by the system defaulting to   mph on unmarked roads ,0,0
+638,Elon Musk,@MelissaJeanSays,that sounds cool  but i still want a manual control option ,0,0
+639,Elon Musk,@NickLippis,i love fsd   its part of living in exponential progress time ,1,1
+640,Elon Musk,@GozukaraFurkan,i agree with this,1,1
+641,Elon Musk,@NAlves_EJ,for the time being the question is how will that affect the sales outlook ,0,1
+642,Elon Musk,@NAlves_EJ,teslas gearing up to drop its q  delivery figures   tsla,0,0
+643,Elon Musk,@NSuresh_ECW,legacy oems should licence tesla fsd into their cars   rapidly progress towards autonomous vehicles,1,1
+644,Elon Musk,@alexisd3000,if every car used fsd  the roads would be so much safer   its the human drivers we need to look out for ,0,1
+645,Elon Musk,@griffithe,ngl i watched ,1,1
+646,Elon Musk,@Wisdom_MAPS,thinking long term and continually investing in that   gives you these kinds of results ,0,1
+647,Elon Musk,@aqsarani76,    it will be interesting when licenses and all the admin and bureaucracy is no longer necessary  its sure to be an interesting transformation  not sure the government will make this easy   ,0,1
+648,Elon Musk,@Jeremywmerchant,all future car purchases will require fsd in my family ,0,1
+649,Elon Musk,@fyrewede,i will never trust fsd if for no other reason than that i dont trust other drivers  or other fsd vehicles   all ot takes is one loose tire hurtling towards my car through the air at speed   i might manage to dodge it  im not certain fsd will ,0,1
+650,Andrew Tate,@AleksAlwaysWins,inspiring to tears ,1,1
+651,Andrew Tate,@WalidZada1,tears for fears ,0,0
+652,Andrew Tate,@okdaksh,wholesome,0,1
+653,Andrew Tate,@ReclaimYourX,awww so sweet    ,1,1
+654,Andrew Tate,@TateNews_,free top g,1,1
+655,Andrew Tate,@FgvPlanet,what a great lesson ,1,1
+656,Andrew Tate,@ZubyMusic,this is cool ,1,1
+657,Andrew Tate,@therealworld_hq,the greatest gift a son can receive from his father is the inheritance of knowledge and wisdom  ,1,1
+658,Andrew Tate,@JoinTheHUWorld,a great father and a great son ,1,1
+659,Andrew Tate,@TateTheTalisman,what s cool  at least for me is that when this happened dad was the age i am now ,0,1
+660,Andrew Tate,@shahh,extreme focus when playing chess at that age is insane  i couldn t even focus on a cartoon at that age ,1,1
+661,Andrew Tate,@twomad,i would of checkmated you little smart ah instantaneously my brudda,1,1
+662,Andrew Tate,@Hendrikvdmaesen,very cool  have you ever considered opening up an international chess school ,1,1
+663,Andrew Tate,@abigail_fekete,you were a top kid even at a young age ,1,1
+664,Andrew Tate,@SulaymanABS,this is amazing,1,1
+665,Andrew Tate,@HairyLahey,son  once youre grown up  youll beat anyone at anything,1,1
+666,Andrew Tate,@AccessTRW,raised to be exceptional ,0,1
+667,Andrew Tate,@Blue_flamingo__,no one ever made money in crypto   i lost few k bucks  ,0,0
+668,Andrew Tate,@themoneymod,interesting about the success with your team   ,1,1
+669,Andrew Tate,@lagent213,hodl and win the race ,0,1
+670,Andrew Tate,@Cryptoking,u shi  on btc then use it for clout ,1,1
+671,Andrew Tate,@nftinos,and that for the small fee of just     per year   ,0,0
+672,Andrew Tate,@MysterEgora,success in  btc isnt guaranteed by following pros  cryptocurrency is volatile and unpredictable  with market conditions changing rapidly  rely on thorough research  risk assessment  and consider seeking advice from certified financial advisors  invest wisely      cryptofacts ,1,1
+673,Andrew Tate,@CryptoBromie,i thought you said crypto bros are dork nerd geeks  ,1,1
+674,Andrew Tate,@RotondoAGoGo,lol ok big boy  your jenga tower is wobbling   gonna be a hoot to watch,1,1
+675,Andrew Tate,@jamesmj85,this is really a good pitch and video,1,1
+676,Andrew Tate,@DrNickA,i hope youre going to teach the lads not to get rugged rather than feed them to them ,1,1
+677,Andrew Tate,@OMEGAMILLIONS1,or they could have just used that    a month to add to their own allocated weekly dollar cost strategy and would still be up all alone bruv ,0,0
+678,Andrew Tate,@PatrykDumicz, made money    meaning that they already sold btc securing their profits  i ll bet you a bugatti most of them will wait until its too late  greed,0,0
+679,Andrew Tate,@Masc_Empire,your money problems are usually your mindset problems ,0,0
+680,Andrew Tate,@mcJoker_05,dm me what you think of top g in chat now,1,1
+681,Andrew Tate,@LegitPersian,this is a top signal,0,1
+682,Andrew Tate,@realPatriot_Dad,im signed up in the market course now  i am motivated to learn and expand my financial future for my   children ,0,1
+683,Andrew Tate,@TheLoveOfJoy,xlm and stellar are where its really at,0,0
+684,Andrew Tate,@joshsilentmode,find the hero inside you,0,0
+685,Andrew Tate,@Famous_999_,bro you are lying and i can confirm,1,1
+686,Andrew Tate,@copyxtyler,trw costs less than what these people would invest ,0,0
+687,Andrew Tate,@okdaksh,david halliwell,1,1
+688,Andrew Tate,@D_Halliwell95,professor adam is a g ,0,0
+689,Andrew Tate,@kittiesbitties,you scammed me,0,1
+690,Andrew Tate,@jackwillis004,i m in trw and dont have a network tho ,0,0
+691,Andrew Tate,@YEYEmeta,you just said nfts were bad ,0,0
+692,Andrew Tate,@ethermage,didnt this guy just post a video saying crypto shillers are the worst ,0,0
+693,Andrew Tate,@KarlssonDaniel4,beast mode    red  stan,1,1
+694,Andrew Tate,@BEASTMODEAPEE, multix going ham,1,1
+695,Andrew Tate,@KaceeRAllen,only the real ones hodl,1,1
+696,Andrew Tate,@web3ie,remember when you said crypto was for dorks and your never touching it  ,1,1
+697,Andrew Tate,@DrZarar01,thanks for sharing,1,1
+698,Andrew Tate,@SkylineETH,you just called crypto is scam ,0,1
+699,Andrew Tate,@ABlastforever,the scam artist is back again,0,0
+700,Dwayne Johnson,@Raj_diary,general booty   ,0,1
+701,Dwayne Johnson,@big_hero_chris,but will i feel the mana though ,0,0
+702,Dwayne Johnson,@Anthony_Russo97,cody rhodes sticking with head and shoulders,0,1
+703,Dwayne Johnson,@jnr_kali,the rock   ,1,1
+704,Dwayne Johnson,@the_artofhealth,i also really love wellness and sauna  ,1,1
+705,Dwayne Johnson,@iJonniM,rock please bring it to canada too ,1,1
+706,Dwayne Johnson,@Raj_diary,zafar abbas,0,1
+707,Dwayne Johnson,@xafar_,thanks  good advocate for wellness,1,1
+708,Dwayne Johnson,@Wyssii_Hun,omprakash choudhary,0,1
+709,Dwayne Johnson,@OmChoudhary01,bang bang this is sparks,1,1
+710,Dwayne Johnson,@DXSD_1,rollins owns you,1,1
+711,Dwayne Johnson,@ShadBoogie,listen  if youre going to be a  heel  imma need you to stop doing these types of ads  i know i know its part of your brand but you cant be talking how you do on sd and then get on here and start talking nice and proper and wholesome,0,1
+712,Dwayne Johnson,@jharleyd12,will be checking it out ,1,1
+713,Dwayne Johnson,@Raj_diary,saltyessentials,0,1
+714,Dwayne Johnson,@SaltyEssentials,what a sellout  ,1,1
+715,Dwayne Johnson,@TommySlaight,christhecool,0,1
+716,Dwayne Johnson,@christhecool21,thanks unc  ,1,1
+717,Dwayne Johnson,@AEW_Blog,im gonna quote his ass because hes lovely,0,1
+718,Dwayne Johnson,@AEW_Blog,the story of the rock vs  hulk hogan,1,1
+719,Dwayne Johnson,@Raj_diary,district   ,1,1
+720,Dwayne Johnson,@iamdistrict411,wow,1,1
+721,Dwayne Johnson,@daranvaseg,oh my star eyes,0,0
+722,Dwayne Johnson,@feelthemusicglo,yes      ,1,1
+723,Dwayne Johnson,@Raj_diary,mahr irfan hiraj,0,1
+724,Dwayne Johnson,@Raj_diary,mahr irfan hiraj,0,1
+725,Dwayne Johnson,@Raj_diary, takebettercare,0,1
+726,Dwayne Johnson,@OmChoudhary01,and the trophy goes to,1,1
+727,Dwayne Johnson,@rxo9191,at ,0,1
+728,Dwayne Johnson,@ShawnS90x,putting in work   i see you  good stuff  best of luck on your new endeavor,1,1
+729,Dwayne Johnson,@DaveHuze,casas plays,1,1
+730,Dwayne Johnson,@CasasPlays,that tattoo care though  ,0,1
+731,Dwayne Johnson,@Cheelee_Tweet,       https   twitter com cheelee tweet status                    ,1,1
+732,Dwayne Johnson,@Cheelee_Tweet,hey  cheeleeland    ,1,1
+733,Dwayne Johnson,@_AVMR_,i went to the website and was gonna put an order in  i had the sandlewood suede body wash  shampoo  and deodorant ,0,1
+734,Dwayne Johnson,@PhotobombChamp,alright rock  i ll make a trip to target this sunday,1,1
+735,Dwayne Johnson,@salmons_jr, diarrheadwayne,0,1
+736,Dwayne Johnson,@VforVoices,well if the rock says its good  its good   ,1,1
+737,Dwayne Johnson,@GetMeCash,bro when do you sleep    ,0,1
+738,Dwayne Johnson,@mtzslivegaming,wow good day,1,1
+739,Dwayne Johnson,@LivngOG,the peoples champ for sure,1,1
+740,Dwayne Johnson,@NarutoExplained,the people s champion for a reason ,1,1
+741,Dwayne Johnson,@habdoolahi,this is legit heartwarming   its what you expect from the final bosss,1,1
+742,Dwayne Johnson,@ziamalik685,history will be made on this wrestle mania ,1,1
+743,Dwayne Johnson,@SteveWrightJr,the rock is a man of his word,0,1
+744,Dwayne Johnson,@KeanuTrades,or is this the quote you ass,1,1
+745,Dwayne Johnson,@KeanuTrades,our old buddy  toddster   had surgery  todd was born w spina bifida and has had countless surgeries and trials  he drives for  lyft when he can   is the biggest  wwe fan i know  ,0,0
+746,Dwayne Johnson,@MrGator84,this whole story with you and cody has made this an epic legendary show  cody vs the final boss in a belt match would be sick  twisted  and badass,0,0
+747,Dwayne Johnson,@GIGACHAD2021,absolutely incredible,1,1
+748,Dwayne Johnson,@PSU_FB_Thoughts,what an awesome back and forth,1,1
+749,Dwayne Johnson,@MikeBacon,great stuff dude  makes me want to go to my first wwe event ever here in my hometown  much love   ,0,1
